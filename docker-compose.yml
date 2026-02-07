@@ -1,0 +1,84 @@
+version: '3.8'
+
+services:
+  thinksub2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: thinksub2-qa
+    hostname: thinksub2
+
+    # Environment variables
+    environment:
+      - LOG_LEVEL=DEBUG
+      - LOG_FORMAT=json
+      - PYTHONUNBUFFERED=1  # Immediate output
+      - TZ=Asia/Seoul
+
+    # X11 forwarding (GUI support)
+    volumes:
+      # X11 socket
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      # X11 authentication
+      - ${XAUTHORITY:-/home/$USER/.Xauthority}:/home/appuser/.Xauthority:ro
+      # PulseAudio (audio)
+      - /run/user/1000/pulse:/run/user/1000/pulse:rw
+      # Application data
+      - ./logs:/app/logs
+      - ./projects:/app/projects
+      - ./models:/app/models
+      - ./temp:/app/temp
+
+    # Device access for audio and hardware acceleration
+    devices:
+      # Audio devices
+      - /dev/snd
+      # GPU for Whisper (if available)
+      - /dev/dri
+
+    # Network mode for GUI
+    network_mode: host
+
+    # Privileged mode for audio access
+    privileged: false
+
+    # Log configuration
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "5"
+        compress: "true"
+        labels: "service=thinksub2,env=qa"
+
+    # Health check
+    healthcheck:
+      test: ["CMD", "pgrep", "-f", "python main.py"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+    # Restart policy
+    restart: unless-stopped
+
+    # Command (X11-enabled)
+    command: >
+      sh -c "
+        echo 'Starting ThinkSub2 with X11 forwarding...' &&
+        export DISPLAY=$${DISPLAY} &&
+        python main.py
+      "
+
+  # Optional: Log aggregation service (for advanced monitoring)
+  log-viewer:
+    image: amir20/dozzle:latest
+    container_name: thinksub2-logs
+    ports:
+      - "8080:8080"
+    volumes:
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+    depends_on:
+      - thinksub2
+    profiles:
+      - monitoring

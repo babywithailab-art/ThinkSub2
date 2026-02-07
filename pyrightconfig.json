@@ -1,0 +1,20 @@
+{
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "pythonPlatform": "Windows",
+  "extraPaths": ["./src"],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["./src"]
+    }
+  ],
+  "reportMissingImports": false,
+  "reportAttributeAccessIssue": false,
+  "reportOptionalMemberAccess": false,
+  "reportIncompatibleMethodOverride": false,
+  "reportRedeclaration": false,
+  "reportArgumentType": false,
+  "reportCallIssue": false,
+  "reportOperatorIssue": false
+}

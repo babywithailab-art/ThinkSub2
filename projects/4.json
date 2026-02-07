@@ -1,0 +1,4441 @@
+{
+  "live_subtitles": [
+    {
+      "id": "af741fb0-22e9-4bf7-9707-c2855bc7bbe0",
+      "start": 1.07,
+      "end": 3.49,
+      "text": "여주의 첫사랑을 빼앗아 버렸다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "5aab84ac-ed04-4de5-86f6-2b224103c89b",
+      "start": 7.34,
+      "end": 10.14,
+      "text": "공녀, 단도직입적으로 얘기할게.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "071683a9-ccc7-4a2f-8bc8-1d15a09bcb79",
+      "start": 10.58,
+      "end": 13.14,
+      "text": "역시 너는 티티를 대신할 수 없어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "63fc7eae-b6c4-400f-8666-cbfb534db664",
+      "start": 15.44,
+      "end": 23.46,
+      "text": "이 쓰레기는 우리 가문의 대리울 사위로 들어올 예정인, 아니 예정이었던 나의 약혼자 빌 헬렘\n턴트다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "716311b5-5b76-4f03-b74b-042cafff0173",
+      "start": 25.3,
+      "end": 29.84,
+      "text": "어쩐지 이번 약혼은 술술 풀린다 했는데,\n또 아니구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "b184f46d-dd36-40a7-8477-ccdba376c380",
+      "start": 31.55,
+      "end": 34.11,
+      "text": "그래서 하고 싶은 말이 뭔가요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "dcb0daa6-0366-4fa7-a74c-33dc9adce2f4",
+      "start": 35.86,
+      "end": 38.94,
+      "text": "솔직하게 말하고 내 마음에 당당하고 싶어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "db8cb6c8-8ffd-48fb-9969-91c0b8820f2e",
+      "start": 40.5,
+      "end": 41.34,
+      "text": "하...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "bb19cfb7-f24c-41ce-89fa-65d7068a988b",
+      "start": 42.21,
+      "end": 46.77,
+      "text": "그 이야기를 약혼식이 끝나고 나서야 하는 이유가 뭐죠?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "e339d2b0-ffe6-44b7-a537-0866b05dbe31",
+      "start": 47.67,
+      "end": 52.59,
+      "text": "그 전에 말했다면 훨씬 쉽게 관계를 정리할 수 있었을 텐데요.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "1925eb1a-db04-45df-9ffe-4f0179554914",
+      "start": 54.93,
+      "end": 56.71,
+      "text": "나는 파혼을 하고 싶은 게 아니야,\n공녀.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d7d4d8c2-abff-4e80-96ad-d236dde95e0d",
+      "start": 57.07,
+      "end": 59.83,
+      "text": "당신이 원하는 건 뭐든 들어줄 자신도 있어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "b47ea3e2-8dbc-45a3-acd1-4389ae86f2bb",
+      "start": 60.45,
+      "end": 65.01,
+      "text": "다만, 내 마음의 주인은 따로 있다는 걸 알아줬으면 해.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "5033869e-71cf-4be0-8070-d676b0848d18",
+      "start": 67.79,
+      "end": 70.21000000000001,
+      "text": "내가 무슨 개소리를 듣고 있는 거야?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "95027532-d749-41e1-b445-c63dff15b754",
+      "start": 70.21000000000001,
+      "end": 71.51,
+      "text": "빌",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "03c3f672-5a45-4548-856c-535bcc84e426",
+      "start": 72.86,
+      "end": 77.52,
+      "text": "헬렘 경, 완벽한 기사의 표본인 당신이 이렇게 예의 없는 것도 모자라.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d2d84ca2-6ef5-438e-b7f5-b22a23cf98cb",
+      "start": 77.92,
+      "end": 83.06,
+      "text": "우리 가문에 들어와서 타티아나의 정부가 되겠다고 당당히 말하다니요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "9f6880bb-bf3c-4aab-be11-68e2d46b5778",
+      "start": 84.13,
+      "end": 87.35,
+      "text": "기사도 정신이란 게 이렇게 저급한 것이었나요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "ebd69818-3928-47b6-93ee-ea02ef0a2588",
+      "start": 89.72,
+      "end": 93.42,
+      "text": "어차피 우린 정략 결혼일 뿐이니까.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "179d6148-f63a-44a4-91d0-2996692101eb",
+      "start": 94.71000000000001,
+      "end": 98.4,
+      "text": "혹시 당신도 정보를 드리고 싶다면 얼마든지 그렇게 해.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "e787ed40-f487-4372-950b-3e569c21dca3",
+      "start": 99.12,
+      "end": 100.1,
+      "text": "나는 신경 안 써.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "055e3204-f06d-4db9-b703-4b4213de081b",
+      "start": 101.5,
+      "end": 105.58,
+      "text": "타티아나와 남편 글로스터 대공도 이 일을 알고 있나요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "99d1c8c4-5c26-4a9c-ae6f-9e3437aae096",
+      "start": 107.07,
+      "end": 107.99000000000001,
+      "text": "티티는 몰라.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d8f94b14-d4fa-4e44-a983-55bd69ab4503",
+      "start": 108.81,
+      "end": 110.38,
+      "text": "그냥 내가 일방적으로 좋아하는...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "357e7396-6727-4eb4-b962-5c37a2e47d94",
+      "start": 110.38,
+      "end": 111.9,
+      "text": "그러니까",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "18b062b9-0c16-40af-8604-c69318ccf875",
+      "start": 113.53,
+      "end": 120.21,
+      "text": "지금 결혼도 자기 멋대로 하고 정부가 되는 것도 상대의 동의 없이 하시겠다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "2f2960de-57b2-44d2-b532-ded4fb496519",
+      "start": 125.68,
+      "end": 129.73,
+      "text": "여기는 사실 오래전에 글러먹은 게임 속 세상이다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d974c5a8-ccd4-4e0f-a049-c00b2507fe19",
+      "start": 131.56,
+      "end": 134.54,
+      "text": "게임의 이름은 그녀의 남자들.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "5b089109-e82c-4e6d-9c23-d03c902f275c",
+      "start": 137.0,
+      "end": 142.28,
+      "text": "판타지 세계 속 아카데미를 배경으로 선택지를 고르고 호감도를 올려",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "188370d3-e958-49c3-a4b4-275556d5b8a9",
+      "start": 142.28,
+      "end": 147.44,
+      "text": "여러 남자 주인공들과 엔딩을 보는 흔한 연애 시뮬레이션 게임인데.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "db0d8808-0ea9-43a0-90b8-04ff3a7d086a",
+      "start": 149.6,
+      "end": 154.89,
+      "text": "문제는 내가 빙의한 카리나 파이오니아가 조연 캐릭터라는 것이다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "eca53587-0f97-4fa1-a816-244f7591ab99",
+      "start": 157.27,
+      "end": 163.47,
+      "text": "캐릭터 설명에는 평범한 외모의 타티아나보다 부유하고 예쁘다고 쓰여있었지만",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "7c89d9e5-0d82-4971-9058-b521ca77f8e5",
+      "start": 163.47,
+      "end": 166.17000000000002,
+      "text": "현실은 그렇지 못했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "94c3feaf-f575-48e8-bb34-30ce6c809a44",
+      "start": 168.95,
+      "end": 173.91,
+      "text": "나는 타티아나를 돋보이게 하기 위한 들러리일 뿐이었다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "a8206e92-3005-445e-bcf3-b1e876f9d6b9",
+      "start": 175.97,
+      "end": 178.51,
+      "text": "그래도 원작이 진행되는 동안은 참을만 했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "f70e610f-1f07-4b50-a690-ffe0f8eace3b",
+      "start": 179.63,
+      "end": 182.57,
+      "text": "그냥 조용히 살면 됐으니까.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "2847f96e-f977-407b-b446-256dcf0ef412",
+      "start": 185.21,
+      "end": 187.29,
+      "text": "문제는 연애였다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "963021aa-cf88-41ed-899a-785a2b87d595",
+      "start": 188.6,
+      "end": 194.4,
+      "text": "내 첫 번째 남자친구는 태종 약혼 관계였던 말피리온 소공작 다니엘.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "06d9752b-8ff3-439e-90ee-d29e8ccd8124",
+      "start": 196.55,
+      "end": 202.27,
+      "text": "잘생기고 매너 좋고 성격 좋았던 그는 게임 속 남주 후보 중 하나였다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "389a3b22-c104-45a1-8633-8affb8a745f3",
+      "start": 204.55,
+      "end": 208.01,
+      "text": "카린, 이대로 너와 결혼하는 건 아닌 것 같아.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "af734489-053f-4517-90f8-c747f17f9954",
+      "start": 208.89,
+      "end": 211.85,
+      "text": "이 게임은 다니엘이 선택됐구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d43d0e51-5237-43cb-a6c7-905a9dd58469",
+      "start": 213.19,
+      "end": 214.15,
+      "text": "그래, 알겠어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "a1803227-2013-423e-974a-801166dcce7b",
+      "start": 215.27,
+      "end": 221.41,
+      "text": "카린, 이 일로 우리의 의정이 흔들릴 일은 없었으면 좋겠어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "38f6034e-395c-47c2-9fc7-130cf9610951",
+      "start": 223.09,
+      "end": 224.25,
+      "text": "물론이지.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "1c1d322f-e53b-4d4d-b849-9ba8c466bb07",
+      "start": 225.17000000000002,
+      "end": 228.45,
+      "text": "타티아나가 남자 주인공을 선택해 엔딩을 맞이했으니",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "083e06c6-7154-43f3-9538-639514309357",
+      "start": 228.45,
+      "end": 231.45,
+      "text": "이제 원작과 내가 엮일 일은 없을 거야.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "fa40655f-e667-4031-b4e3-8726d48d7b03",
+      "start": 232.27,
+      "end": 235.49,
+      "text": "물론 그건 착각이었다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "019965c5-60bf-4c71-8c42-924f9a420153",
+      "start": 237.07,
+      "end": 239.39,
+      "text": "만나서 반갑습니다, 카리나 양.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "3dd61c0c-4950-4d36-b069-ad7e86c9989a",
+      "start": 241.56,
+      "end": 244.28,
+      "text": "차기 마탑주 후보, 레이먼드 카세.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "9be2e98d-0102-4308-b324-e64b49c8eba9",
+      "start": 244.28,
+      "end": 247.24,
+      "text": "저와 사귀어 주시겠습니까?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "3f2f62c1-db7c-48a0-94b5-dded02376e09",
+      "start": 248.65,
+      "end": 252.15,
+      "text": "이 미남도 원작의 남주 중 한 명이었지만,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "c021ab89-5462-40bf-817e-2a92d8831f84",
+      "start": 253.08,
+      "end": 258.14,
+      "text": "타티아나는 다니엘을 선택했으니까 내가 이 사람을 만나도 괜찮을 줄 알았다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "e035b160-3f89-4f6b-b229-3ab3e52c718d",
+      "start": 258.37,
+      "end": 260.53,
+      "text": "그러나...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "728a15ac-19fd-4340-b735-a9bdec354340",
+      "start": 260.53,
+      "end": 264.09,
+      "text": "제 심장의 진짜 주인은 타티아나였습니다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "36ed2f27-2787-4c79-9c12-46cb97a49363",
+      "start": 267.71,
+      "end": 271.83,
+      "text": "카린, 레이먼드가 어찌나 나한테 질척거리는지 몰라.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "deb32bce-804a-4dd5-b982-08dc8964d92f",
+      "start": 272.67,
+      "end": 273.87,
+      "text": "나도 정말 곤란하다니까.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "33f65f47-e2bf-465a-b5de-8d5e5633ed78",
+      "start": 275.85,
+      "end": 277.25,
+      "text": "그렇구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "70da2d9b-0fcf-4c89-8b9e-5e5da1a5e5a0",
+      "start": 277.25,
+      "end": 283.63,
+      "text": "타티아나는 원작의 여주이니 가만히 있어도 남자 주인공들이 꼬이겠구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "b6146c92-ae2d-4b65-bb67-e7c5a3d7a892",
+      "start": 284.97,
+      "end": 286.49,
+      "text": "네 탓은 아니지만,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "ea4b6255-8030-4d76-b787-4356cd3204eb",
+      "start": 287.51,
+      "end": 288.90999999999997,
+      "text": "현타가 오긴 하네.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "436704a7-c731-44f3-b0e1-260c4bf6d59f",
+      "start": 291.44,
+      "end": 294.52,
+      "text": "그 이후 나는 엑스트라급의 남자들과 어울렸고,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "0e261a7e-3517-4ce3-adf6-f063c59ae0d8",
+      "start": 295.22,
+      "end": 298.52,
+      "text": "그러다 평범한 자작가의 장남과 사랑에 빠졌다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "b86e1035-9f52-47d8-8a08-21a9f86faded",
+      "start": 301.58,
+      "end": 309.52,
+      "text": "그동안 이 세계에 안착하지 못하고 관망하며 부유하던 나를 지상으로 끌고 내려와준 유일한 존재.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "9bccef1e-a192-4f4a-a9d5-bc87df126204",
+      "start": 309.52,
+      "end": 310.86,
+      "text": "나는",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "a0e58a0f-3985-476c-854b-5b1a34aa0525",
+      "start": 312.23,
+      "end": 314.29,
+      "text": "진짜 연애를 했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "4657c17e-ffbe-4fba-8b37-f58446afe607",
+      "start": 319.19,
+      "end": 320.11,
+      "text": "미안해.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "f2a5abbd-332c-4d2f-9946-4d88dc16dc28",
+      "start": 320.63,
+      "end": 323.87,
+      "text": "나 사실 타티아나에게 흔들리고 있어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "f72cacfd-ae56-41fb-ba64-15fa6abae98b",
+      "start": 326.68,
+      "end": 333.7,
+      "text": "이 세계는 공작가의 영예라는 지위도, 아름다운 외모도,\n능력도...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "0bde9e7d-0c74-485c-ab7a-b87ec2201be1",
+      "start": 334.21,
+      "end": 337.40999999999997,
+      "text": "주인공 앞에서는 아무 의미가 없구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "e1442057-bbeb-471b-a1f6-86e0abda3925",
+      "start": 338.49,
+      "end": 344.77,
+      "text": "타티아나는 어째서 게임 속 남주가 아닌 평범한 자작가의 남자를 선택한 걸까?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "aece1078-6a61-4f5b-9e38-29101d76aff5",
+      "start": 344.77,
+      "end": 350.07,
+      "text": "혹시 내 연인들에게 일부러 접근한 건 아닌지 의구심이 들기도 했지만,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "e4a78582-f039-4bc2-a825-398291baadc4",
+      "start": 351.47,
+      "end": 355.13,
+      "text": "한미한 가문의 남자인 줄 알았던 그의 진짜 정체가",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "0268812e-f447-4137-8196-9d536c73133a",
+      "start": 355.13,
+      "end": 361.91,
+      "text": "현 황제의 이복형제이자 황제의 난에서 실종된 후 유일한 상황족이라고 밝혀진 후,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "158fcfca-1201-42d6-bfbc-06e1387cdbca",
+      "start": 362.69,
+      "end": 363.95,
+      "text": "전부 이해가 됐다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "dbbb701b-246d-4b1c-9090-c34f25748342",
+      "start": 363.95,
+      "end": 367.65,
+      "text": "앤드류, 르브론, 글로스터...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "82d40052-7409-4434-adf3-44ff6e4a61f0",
+      "start": 367.81,
+      "end": 374.57,
+      "text": "황족이 들러리가 아닌 여자 주인공과 엮이는 건 당연한 일이니까...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d86ee85f-8417-4525-8d1e-c28b046e91a2",
+      "start": 375.05,
+      "end": 378.71,
+      "text": "그가 헤어지고 얼마 뒤 타티아나의 결혼 수식을 들었다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "66176e94-c04a-46a2-afbc-417c2dafec60",
+      "start": 380.07,
+      "end": 383.13,
+      "text": "이젠 정말로 엔딩을 맺었구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "99a88fab-fa87-41dd-a77b-3c86babb1d4c",
+      "start": 384.85,
+      "end": 390.95,
+      "text": "원작이 끝난 지도 3년이 됐고, 타티아나는 결혼까지 했으니 더는 엮일 일이 없다고 생각했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "b6d07d4e-4eab-442b-af18-1551ce3614e2",
+      "start": 392.33,
+      "end": 396.40999999999997,
+      "text": "이번에는 정말 괜찮은 줄 알았는데...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "b57f22e5-fa3d-4839-ae16-61264bb71cae",
+      "start": 396.99,
+      "end": 398.87,
+      "text": "그런데 이렇게 뒤통수를 맞을 줄이야.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "a1a2066c-31e4-4ca4-bbc3-bb49d8191c8c",
+      "start": 400.33,
+      "end": 404.67,
+      "text": "티티, 마음과 상관없이 나는 내 심장까지도 줄 수 있어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "c7116dc8-c3a2-49a6-8cad-0d5d856b252b",
+      "start": 405.63,
+      "end": 406.75,
+      "text": "그러니까...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "ae7e01bb-34a5-40bc-a51d-ecb52a77ce02",
+      "start": 408.40999999999997,
+      "end": 411.97,
+      "text": "지금 본인이 쓰레기라고 말씀하시는 거네요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "7ae0ef47-6b12-40ac-9362-f7e6fa898cd1",
+      "start": 417.11,
+      "end": 421.61,
+      "text": "오늘 뱉은 말의 대가는 툭툭히 치르셔야 할 겁니다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "94c8fb4f-23d0-497a-9cd1-26f3be2c86eb",
+      "start": 423.71,
+      "end": 425.79,
+      "text": "나도 멍청하게 당하고 참는 건...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "d3581369-4461-4243-b931-0647e57ef308",
+      "start": 425.79,
+      "end": 427.57,
+      "text": "이제 질려버렸거든?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "e158d0ad-d7f2-4d44-aeaa-c620f0c579c5",
+      "start": 428.47,
+      "end": 431.55,
+      "text": "여주의 첫사랑을 빼앗아 버렸다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    },
+    {
+      "id": "4c816dc4-f681-4661-9062-174cf6f4e593",
+      "start": 431.55,
+      "end": 432.97,
+      "text": "이번에는의атель의 자리에 정말로 인정된 툭툭이 되었다고 생각하다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": []
+    }
+  ],
+  "file_subtitles": [
+    {
+      "id": "ea043994-6232-4d26-b732-50ca6060985a",
+      "start": 0.9700000000000001,
+      "end": 3.5900000000000003,
+      "text": "여주의 첫사랑을 빼앗아 버렸다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 1.07,
+          "end": 1.87,
+          "text": " 여주의"
+        },
+        {
+          "start": 1.87,
+          "end": 2.49,
+          "text": " 첫사랑을"
+        },
+        {
+          "start": 2.49,
+          "end": 2.93,
+          "text": " 빼앗아"
+        },
+        {
+          "start": 2.93,
+          "end": 3.49,
+          "text": " 버렸다."
+        }
+      ]
+    },
+    {
+      "id": "cfa6088b-f7c2-4a04-b0f1-827825d123d7",
+      "start": 7.24,
+      "end": 10.24,
+      "text": "공녀, 단도직입적으로 얘기할게.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 7.34,
+          "end": 8.02,
+          "text": " 공녀,"
+        },
+        {
+          "start": 8.38,
+          "end": 9.58,
+          "text": " 단도직입적으로"
+        },
+        {
+          "start": 9.58,
+          "end": 10.14,
+          "text": " 얘기할게."
+        }
+      ]
+    },
+    {
+      "id": "2435abd7-3d6f-4fb6-af4d-9c51f02f9596",
+      "start": 10.48,
+      "end": 13.24,
+      "text": "역시 너는 티티를 대신할 수 없어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 10.58,
+          "end": 11.54,
+          "text": " 역시"
+        },
+        {
+          "start": 11.54,
+          "end": 11.84,
+          "text": " 너는"
+        },
+        {
+          "start": 11.84,
+          "end": 12.26,
+          "text": " 티티를"
+        },
+        {
+          "start": 12.26,
+          "end": 12.72,
+          "text": " 대신할"
+        },
+        {
+          "start": 12.72,
+          "end": 12.86,
+          "text": " 수"
+        },
+        {
+          "start": 12.86,
+          "end": 13.14,
+          "text": " 없어."
+        }
+      ]
+    },
+    {
+      "id": "762932d4-1843-444a-80ad-d90abb3c5485",
+      "start": 15.34,
+      "end": 19.719356147893382,
+      "text": "이 쓰레기는 우리 가문의 대리울 사위로 들어올 예정인,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 15.44,
+          "end": 15.94,
+          "text": " 이"
+        },
+        {
+          "start": 15.94,
+          "end": 16.38,
+          "text": " 쓰레기는"
+        },
+        {
+          "start": 16.38,
+          "end": 17.24,
+          "text": " 우리"
+        },
+        {
+          "start": 17.24,
+          "end": 17.64,
+          "text": " 가문의"
+        },
+        {
+          "start": 17.64,
+          "end": 17.96,
+          "text": " 대리울"
+        },
+        {
+          "start": 17.96,
+          "end": 18.3,
+          "text": " 사위로"
+        },
+        {
+          "start": 18.3,
+          "end": 18.66,
+          "text": " 들어올"
+        },
+        {
+          "start": 18.66,
+          "end": 19.14,
+          "text": " 예정인,"
+        }
+      ]
+    },
+    {
+      "id": "7f998f71-76ab-47d1-a91b-2604231874bf",
+      "start": 19.719356147893382,
+      "end": 23.560000000000002,
+      "text": "아니 예정이었던 나의 약혼자 빌 헬렘 턴트다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 19.56,
+          "end": 20.16,
+          "text": " 아니"
+        },
+        {
+          "start": 20.16,
+          "end": 21.16,
+          "text": " 예정이었던"
+        },
+        {
+          "start": 21.16,
+          "end": 21.44,
+          "text": " 나의"
+        },
+        {
+          "start": 21.44,
+          "end": 22.02,
+          "text": " 약혼자"
+        },
+        {
+          "start": 22.02,
+          "end": 22.44,
+          "text": " 빌"
+        },
+        {
+          "start": 22.44,
+          "end": 22.7,
+          "text": " 헬렘"
+        },
+        {
+          "start": 22.7,
+          "end": 23.46,
+          "text": " 턴트다."
+        }
+      ]
+    },
+    {
+      "id": "becfad95-f615-4e6c-a70a-911da16e01b3",
+      "start": 25.2,
+      "end": 29.94,
+      "text": "어쩐지 이번 약혼은 술술 풀린다 했는데,\n또 아니구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 25.3,
+          "end": 26.0,
+          "text": " 어쩐지"
+        },
+        {
+          "start": 26.0,
+          "end": 26.24,
+          "text": " 이번"
+        },
+        {
+          "start": 26.24,
+          "end": 26.8,
+          "text": " 약혼은"
+        },
+        {
+          "start": 26.8,
+          "end": 27.3,
+          "text": " 술술"
+        },
+        {
+          "start": 27.3,
+          "end": 27.78,
+          "text": " 풀린다"
+        },
+        {
+          "start": 27.78,
+          "end": 28.1,
+          "text": " 했는데,"
+        },
+        {
+          "start": 28.8,
+          "end": 29.32,
+          "text": " 또"
+        },
+        {
+          "start": 29.32,
+          "end": 29.84,
+          "text": " 아니구나."
+        }
+      ]
+    },
+    {
+      "id": "1dcee811-27af-4a12-a8d7-d5b64b6c450a",
+      "start": 31.45,
+      "end": 34.21,
+      "text": "그래서 하고 싶은 말이 뭔가요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 31.55,
+          "end": 32.21,
+          "text": " 그래서"
+        },
+        {
+          "start": 32.21,
+          "end": 33.11,
+          "text": " 하고"
+        },
+        {
+          "start": 33.11,
+          "end": 33.37,
+          "text": " 싶은"
+        },
+        {
+          "start": 33.37,
+          "end": 33.57,
+          "text": " 말이"
+        },
+        {
+          "start": 33.57,
+          "end": 34.11,
+          "text": " 뭔가요?"
+        }
+      ]
+    },
+    {
+      "id": "eea84381-7b8c-44d0-bd01-e0c7fd1568a4",
+      "start": 35.76,
+      "end": 39.04,
+      "text": "솔직하게 말하고 내 마음에 당당하고 싶어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 35.86,
+          "end": 36.78,
+          "text": " 솔직하게"
+        },
+        {
+          "start": 36.78,
+          "end": 37.14,
+          "text": " 말하고"
+        },
+        {
+          "start": 37.14,
+          "end": 37.76,
+          "text": " 내"
+        },
+        {
+          "start": 37.76,
+          "end": 38.06,
+          "text": " 마음에"
+        },
+        {
+          "start": 38.06,
+          "end": 38.62,
+          "text": " 당당하고"
+        },
+        {
+          "start": 38.62,
+          "end": 38.94,
+          "text": " 싶어."
+        }
+      ]
+    },
+    {
+      "id": "96e368df-7afb-4efe-b6e4-30d067a8a841",
+      "start": 42.11,
+      "end": 46.870000000000005,
+      "text": "그 이야기를 약혼식이 끝나고 나서야 하는 이유가 뭐죠?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 42.21,
+          "end": 42.91,
+          "text": " 그"
+        },
+        {
+          "start": 42.91,
+          "end": 43.37,
+          "text": " 이야기를"
+        },
+        {
+          "start": 43.37,
+          "end": 44.75,
+          "text": " 약혼식이"
+        },
+        {
+          "start": 44.75,
+          "end": 45.17,
+          "text": " 끝나고"
+        },
+        {
+          "start": 45.17,
+          "end": 45.59,
+          "text": " 나서야"
+        },
+        {
+          "start": 45.59,
+          "end": 45.81,
+          "text": " 하는"
+        },
+        {
+          "start": 45.81,
+          "end": 46.25,
+          "text": " 이유가"
+        },
+        {
+          "start": 46.25,
+          "end": 46.77,
+          "text": " 뭐죠?"
+        }
+      ]
+    },
+    {
+      "id": "29f6b141-14af-457d-a621-290009bc52fb",
+      "start": 47.57,
+      "end": 52.690000000000005,
+      "text": "그 전에 말했다면 훨씬 쉽게 관계를 정리할 수 있었을 텐데요.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 47.67,
+          "end": 48.21,
+          "text": " 그"
+        },
+        {
+          "start": 48.21,
+          "end": 48.45,
+          "text": " 전에"
+        },
+        {
+          "start": 48.45,
+          "end": 48.99,
+          "text": " 말했다면"
+        },
+        {
+          "start": 48.99,
+          "end": 50.09,
+          "text": " 훨씬"
+        },
+        {
+          "start": 50.09,
+          "end": 50.57,
+          "text": " 쉽게"
+        },
+        {
+          "start": 50.57,
+          "end": 51.03,
+          "text": " 관계를"
+        },
+        {
+          "start": 51.03,
+          "end": 51.53,
+          "text": " 정리할"
+        },
+        {
+          "start": 51.53,
+          "end": 51.67,
+          "text": " 수"
+        },
+        {
+          "start": 51.67,
+          "end": 52.15,
+          "text": " 있었을"
+        },
+        {
+          "start": 52.15,
+          "end": 52.59,
+          "text": " 텐데요."
+        }
+      ]
+    },
+    {
+      "id": "5d415dde-cfd1-4224-ad74-a2694a5a13ba",
+      "start": 54.83,
+      "end": 56.81,
+      "text": "나는 파혼을 하고 싶은 게 아니야,\n공녀.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 54.93,
+          "end": 55.11,
+          "text": " 나는"
+        },
+        {
+          "start": 55.11,
+          "end": 55.53,
+          "text": " 파혼을"
+        },
+        {
+          "start": 55.53,
+          "end": 55.69,
+          "text": " 하고"
+        },
+        {
+          "start": 55.69,
+          "end": 55.89,
+          "text": " 싶은"
+        },
+        {
+          "start": 55.89,
+          "end": 56.01,
+          "text": " 게"
+        },
+        {
+          "start": 56.01,
+          "end": 56.27,
+          "text": " 아니야,"
+        },
+        {
+          "start": 56.37,
+          "end": 56.71,
+          "text": " 공녀."
+        }
+      ]
+    },
+    {
+      "id": "35de49fa-2be7-4889-b95a-a0f643826abb",
+      "start": 56.97,
+      "end": 59.93,
+      "text": "당신이 원하는 건 뭐든 들어줄 자신도 있어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 57.07,
+          "end": 57.91,
+          "text": " 당신이"
+        },
+        {
+          "start": 57.91,
+          "end": 58.21,
+          "text": " 원하는"
+        },
+        {
+          "start": 58.21,
+          "end": 58.35,
+          "text": " 건"
+        },
+        {
+          "start": 58.35,
+          "end": 58.69,
+          "text": " 뭐든"
+        },
+        {
+          "start": 58.69,
+          "end": 59.15,
+          "text": " 들어줄"
+        },
+        {
+          "start": 59.15,
+          "end": 59.55,
+          "text": " 자신도"
+        },
+        {
+          "start": 59.55,
+          "end": 59.83,
+          "text": " 있어."
+        }
+      ]
+    },
+    {
+      "id": "c4424430-25bd-4efe-aa8c-5701e87bb716",
+      "start": 60.35,
+      "end": 65.11,
+      "text": "다만, 내 마음의 주인은 따로 있다는 걸 알아줬으면 해.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 60.45,
+          "end": 60.85,
+          "text": " 다만,"
+        },
+        {
+          "start": 61.07,
+          "end": 62.13,
+          "text": " 내"
+        },
+        {
+          "start": 62.13,
+          "end": 62.51,
+          "text": " 마음의"
+        },
+        {
+          "start": 62.51,
+          "end": 62.91,
+          "text": " 주인은"
+        },
+        {
+          "start": 62.91,
+          "end": 63.19,
+          "text": " 따로"
+        },
+        {
+          "start": 63.19,
+          "end": 63.47,
+          "text": " 있다는"
+        },
+        {
+          "start": 63.47,
+          "end": 63.85,
+          "text": " 걸"
+        },
+        {
+          "start": 63.85,
+          "end": 64.81,
+          "text": " 알아줬으면"
+        },
+        {
+          "start": 64.81,
+          "end": 65.01,
+          "text": " 해."
+        }
+      ]
+    },
+    {
+      "id": "df7a49f1-1a6b-4552-a073-3757ecc1857b",
+      "start": 67.69000000000001,
+      "end": 70.30999999999999,
+      "text": "내가 무슨 개소리를 듣고 있는 거야?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 67.79,
+          "end": 68.39,
+          "text": " 내가"
+        },
+        {
+          "start": 68.39,
+          "end": 68.87,
+          "text": " 무슨"
+        },
+        {
+          "start": 68.87,
+          "end": 69.45,
+          "text": " 개소리를"
+        },
+        {
+          "start": 69.45,
+          "end": 69.77,
+          "text": " 듣고"
+        },
+        {
+          "start": 69.77,
+          "end": 69.93,
+          "text": " 있는"
+        },
+        {
+          "start": 69.93,
+          "end": 70.21,
+          "text": " 거야?"
+        }
+      ]
+    },
+    {
+      "id": "f8dd286d-9a60-48e0-8714-7155c8e9e98a",
+      "start": 70.11,
+      "end": 71.61,
+      "text": "빌",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 70.21,
+          "end": 71.51,
+          "text": " 빌"
+        }
+      ]
+    },
+    {
+      "id": "a2ed4c33-0dfd-422c-bdb7-a6c2477fd467",
+      "start": 72.76,
+      "end": 77.61999999999999,
+      "text": "헬렘 경, 완벽한 기사의 표본인 당신이 이렇게 예의 없는 것도 모자라.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 72.86,
+          "end": 73.12,
+          "text": " 헬렘"
+        },
+        {
+          "start": 73.12,
+          "end": 73.28,
+          "text": " 경,"
+        },
+        {
+          "start": 73.58,
+          "end": 74.66,
+          "text": " 완벽한"
+        },
+        {
+          "start": 74.66,
+          "end": 75.12,
+          "text": " 기사의"
+        },
+        {
+          "start": 75.12,
+          "end": 75.54,
+          "text": " 표본인"
+        },
+        {
+          "start": 75.54,
+          "end": 75.98,
+          "text": " 당신이"
+        },
+        {
+          "start": 75.98,
+          "end": 76.22,
+          "text": " 이렇게"
+        },
+        {
+          "start": 76.22,
+          "end": 76.64,
+          "text": " 예의"
+        },
+        {
+          "start": 76.64,
+          "end": 76.8,
+          "text": " 없는"
+        },
+        {
+          "start": 76.8,
+          "end": 77.06,
+          "text": " 것도"
+        },
+        {
+          "start": 77.06,
+          "end": 77.52,
+          "text": " 모자라."
+        }
+      ]
+    },
+    {
+      "id": "a5a498c6-02a9-47a8-9bf2-0e577162ce0a",
+      "start": 77.82000000000001,
+      "end": 83.16,
+      "text": "우리 가문에 들어와서 타티아나의 정부가 되겠다고 당당히 말하다니요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 77.92,
+          "end": 78.48,
+          "text": " 우리"
+        },
+        {
+          "start": 78.48,
+          "end": 78.96,
+          "text": " 가문에"
+        },
+        {
+          "start": 78.96,
+          "end": 79.5,
+          "text": " 들어와서"
+        },
+        {
+          "start": 79.5,
+          "end": 80.8,
+          "text": " 타티아나의"
+        },
+        {
+          "start": 80.8,
+          "end": 81.36,
+          "text": " 정부가"
+        },
+        {
+          "start": 81.36,
+          "end": 81.96,
+          "text": " 되겠다고"
+        },
+        {
+          "start": 81.96,
+          "end": 82.52,
+          "text": " 당당히"
+        },
+        {
+          "start": 82.52,
+          "end": 83.06,
+          "text": " 말하다니요?"
+        }
+      ]
+    },
+    {
+      "id": "4f116de4-0608-4185-92b8-bbbd7b363cf9",
+      "start": 84.03,
+      "end": 87.44999999999999,
+      "text": "기사도 정신이란 게 이렇게 저급한 것이었나요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 84.13,
+          "end": 84.65,
+          "text": " 기사도"
+        },
+        {
+          "start": 84.65,
+          "end": 85.13,
+          "text": " 정신이란"
+        },
+        {
+          "start": 85.13,
+          "end": 85.29,
+          "text": " 게"
+        },
+        {
+          "start": 85.29,
+          "end": 86.17,
+          "text": " 이렇게"
+        },
+        {
+          "start": 86.17,
+          "end": 86.75,
+          "text": " 저급한"
+        },
+        {
+          "start": 86.75,
+          "end": 87.35,
+          "text": " 것이었나요?"
+        }
+      ]
+    },
+    {
+      "id": "45033a0f-de9c-4080-b503-1ee3366f9bd2",
+      "start": 89.62,
+      "end": 93.52,
+      "text": "어차피 우린 정략 결혼일 뿐이니까.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 89.72,
+          "end": 91.38,
+          "text": " 어차피"
+        },
+        {
+          "start": 91.38,
+          "end": 92.14,
+          "text": " 우린"
+        },
+        {
+          "start": 92.14,
+          "end": 92.5,
+          "text": " 정략"
+        },
+        {
+          "start": 92.5,
+          "end": 92.88,
+          "text": " 결혼일"
+        },
+        {
+          "start": 92.88,
+          "end": 93.42,
+          "text": " 뿐이니까."
+        }
+      ]
+    },
+    {
+      "id": "bbef15e4-1c30-4d0d-a09b-e8005db304e1",
+      "start": 94.61,
+      "end": 98.5,
+      "text": "혹시 당신도 정보를 드리고 싶다면 얼마든지 그렇게 해.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 94.71,
+          "end": 95.16,
+          "text": " 혹시"
+        },
+        {
+          "start": 95.16,
+          "end": 95.66,
+          "text": " 당신도"
+        },
+        {
+          "start": 95.66,
+          "end": 96.06,
+          "text": " 정보를"
+        },
+        {
+          "start": 96.06,
+          "end": 96.38,
+          "text": " 드리고"
+        },
+        {
+          "start": 96.38,
+          "end": 96.76,
+          "text": " 싶다면"
+        },
+        {
+          "start": 96.76,
+          "end": 97.84,
+          "text": " 얼마든지"
+        },
+        {
+          "start": 97.84,
+          "end": 98.1,
+          "text": " 그렇게"
+        },
+        {
+          "start": 98.1,
+          "end": 98.4,
+          "text": " 해."
+        }
+      ]
+    },
+    {
+      "id": "8f3a2042-bb26-4260-836e-320c98b45074",
+      "start": 99.02000000000001,
+      "end": 100.19999999999999,
+      "text": "나는 신경 안 써.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 99.12,
+          "end": 99.28,
+          "text": " 나는"
+        },
+        {
+          "start": 99.28,
+          "end": 99.68,
+          "text": " 신경"
+        },
+        {
+          "start": 99.68,
+          "end": 99.9,
+          "text": " 안"
+        },
+        {
+          "start": 99.9,
+          "end": 100.1,
+          "text": " 써."
+        }
+      ]
+    },
+    {
+      "id": "89b30d53-67ee-479f-ae11-73d0b7411a54",
+      "start": 101.4,
+      "end": 105.67999999999999,
+      "text": "타티아나와 남편 글로스터 대공도 이 일을 알고 있나요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 101.5,
+          "end": 102.22,
+          "text": " 타티아나와"
+        },
+        {
+          "start": 102.22,
+          "end": 102.56,
+          "text": " 남편"
+        },
+        {
+          "start": 102.56,
+          "end": 103.06,
+          "text": " 글로스터"
+        },
+        {
+          "start": 103.06,
+          "end": 103.54,
+          "text": " 대공도"
+        },
+        {
+          "start": 103.54,
+          "end": 104.5,
+          "text": " 이"
+        },
+        {
+          "start": 104.5,
+          "end": 104.82,
+          "text": " 일을"
+        },
+        {
+          "start": 104.82,
+          "end": 105.16,
+          "text": " 알고"
+        },
+        {
+          "start": 105.16,
+          "end": 105.58,
+          "text": " 있나요?"
+        }
+      ]
+    },
+    {
+      "id": "dde0d66b-f052-4fbe-b73c-ca0a3ef62b9f",
+      "start": 106.97,
+      "end": 108.08999999999999,
+      "text": "티티는 몰라.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 107.07,
+          "end": 107.69,
+          "text": " 티티는"
+        },
+        {
+          "start": 107.69,
+          "end": 107.99,
+          "text": " 몰라."
+        }
+      ]
+    },
+    {
+      "id": "1fe34c04-90d9-4c1e-8f3a-dfd6ea9aa28b",
+      "start": 108.71000000000001,
+      "end": 110.47999999999999,
+      "text": "그냥 내가 일방적으로 좋아하는...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 108.81,
+          "end": 108.97,
+          "text": " 그냥"
+        },
+        {
+          "start": 108.97,
+          "end": 109.29,
+          "text": " 내가"
+        },
+        {
+          "start": 109.29,
+          "end": 109.93,
+          "text": " 일방적으로"
+        },
+        {
+          "start": 109.93,
+          "end": 110.38,
+          "text": " 좋아하는..."
+        }
+      ]
+    },
+    {
+      "id": "604f6ee4-be55-4eeb-9e7b-140ccd2f09a0",
+      "start": 110.28,
+      "end": 112.0,
+      "text": "그러니까",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 110.38,
+          "end": 111.9,
+          "text": " 그러니까"
+        }
+      ]
+    },
+    {
+      "id": "83fb77e1-d77a-4f73-a0ea-4c2eeb6e6866",
+      "start": 113.43,
+      "end": 120.30999999999999,
+      "text": "지금 결혼도 자기 멋대로 하고 정부가 되는 것도 상대의 동의 없이 하시겠다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 113.53,
+          "end": 114.09,
+          "text": " 지금"
+        },
+        {
+          "start": 114.09,
+          "end": 115.65,
+          "text": " 결혼도"
+        },
+        {
+          "start": 115.65,
+          "end": 115.93,
+          "text": " 자기"
+        },
+        {
+          "start": 115.93,
+          "end": 116.35,
+          "text": " 멋대로"
+        },
+        {
+          "start": 116.35,
+          "end": 116.67,
+          "text": " 하고"
+        },
+        {
+          "start": 116.67,
+          "end": 117.89,
+          "text": " 정부가"
+        },
+        {
+          "start": 117.89,
+          "end": 118.11,
+          "text": " 되는"
+        },
+        {
+          "start": 118.11,
+          "end": 118.43,
+          "text": " 것도"
+        },
+        {
+          "start": 118.43,
+          "end": 119.01,
+          "text": " 상대의"
+        },
+        {
+          "start": 119.01,
+          "end": 119.33,
+          "text": " 동의"
+        },
+        {
+          "start": 119.33,
+          "end": 119.55,
+          "text": " 없이"
+        },
+        {
+          "start": 119.55,
+          "end": 120.21,
+          "text": " 하시겠다."
+        }
+      ]
+    },
+    {
+      "id": "e95f5565-f2fa-4426-95dd-4239770c1de3",
+      "start": 125.58000000000001,
+      "end": 129.82999999999998,
+      "text": "여기는 사실 오래전에 글러먹은 게임 속 세상이다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 125.68,
+          "end": 126.23,
+          "text": " 여기는"
+        },
+        {
+          "start": 126.23,
+          "end": 126.65,
+          "text": " 사실"
+        },
+        {
+          "start": 126.65,
+          "end": 127.99,
+          "text": " 오래전에"
+        },
+        {
+          "start": 127.99,
+          "end": 128.69,
+          "text": " 글러먹은"
+        },
+        {
+          "start": 128.69,
+          "end": 128.99,
+          "text": " 게임"
+        },
+        {
+          "start": 128.99,
+          "end": 129.17,
+          "text": " 속"
+        },
+        {
+          "start": 129.17,
+          "end": 129.73,
+          "text": " 세상이다."
+        }
+      ]
+    },
+    {
+      "id": "812d0144-c5f2-475f-bb5d-71a6af75dd61",
+      "start": 131.46,
+      "end": 134.64,
+      "text": "게임의 이름은 그녀의 남자들.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 131.56,
+          "end": 132.32,
+          "text": " 게임의"
+        },
+        {
+          "start": 132.32,
+          "end": 132.74,
+          "text": " 이름은"
+        },
+        {
+          "start": 132.74,
+          "end": 133.94,
+          "text": " 그녀의"
+        },
+        {
+          "start": 133.94,
+          "end": 134.54,
+          "text": " 남자들."
+        }
+      ]
+    },
+    {
+      "id": "5a160199-15f6-4b9e-8a19-37f75eb54d8e",
+      "start": 136.9,
+      "end": 142.38,
+      "text": "판타지 세계 속 아카데미를 배경으로 선택지를 고르고 호감도를 올려",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 137.0,
+          "end": 137.76,
+          "text": " 판타지"
+        },
+        {
+          "start": 137.76,
+          "end": 138.02,
+          "text": " 세계"
+        },
+        {
+          "start": 138.02,
+          "end": 138.4,
+          "text": " 속"
+        },
+        {
+          "start": 138.4,
+          "end": 139.16,
+          "text": " 아카데미를"
+        },
+        {
+          "start": 139.16,
+          "end": 139.66,
+          "text": " 배경으로"
+        },
+        {
+          "start": 139.66,
+          "end": 140.84,
+          "text": " 선택지를"
+        },
+        {
+          "start": 140.84,
+          "end": 141.28,
+          "text": " 고르고"
+        },
+        {
+          "start": 141.28,
+          "end": 141.9,
+          "text": " 호감도를"
+        },
+        {
+          "start": 141.9,
+          "end": 142.28,
+          "text": " 올려"
+        }
+      ]
+    },
+    {
+      "id": "f467c2f4-3a17-4527-b1f1-ae9e8f56eef1",
+      "start": 142.18,
+      "end": 147.54,
+      "text": "여러 남자 주인공들과 엔딩을 보는 흔한 연애 시뮬레이션 게임인데.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 142.28,
+          "end": 143.2,
+          "text": " 여러"
+        },
+        {
+          "start": 143.2,
+          "end": 143.54,
+          "text": " 남자"
+        },
+        {
+          "start": 143.54,
+          "end": 144.28,
+          "text": " 주인공들과"
+        },
+        {
+          "start": 144.28,
+          "end": 144.76,
+          "text": " 엔딩을"
+        },
+        {
+          "start": 144.76,
+          "end": 145.0,
+          "text": " 보는"
+        },
+        {
+          "start": 145.0,
+          "end": 146.0,
+          "text": " 흔한"
+        },
+        {
+          "start": 146.0,
+          "end": 146.3,
+          "text": " 연애"
+        },
+        {
+          "start": 146.3,
+          "end": 146.92,
+          "text": " 시뮬레이션"
+        },
+        {
+          "start": 146.92,
+          "end": 147.44,
+          "text": " 게임인데."
+        }
+      ]
+    },
+    {
+      "id": "0527e913-8123-4f28-8ff3-c65fa4b277b6",
+      "start": 149.5,
+      "end": 154.98999999999998,
+      "text": "문제는 내가 빙의한 카리나 파이오니아가 조연 캐릭터라는 것이다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 149.6,
+          "end": 150.17,
+          "text": " 문제는"
+        },
+        {
+          "start": 150.17,
+          "end": 150.93,
+          "text": " 내가"
+        },
+        {
+          "start": 150.93,
+          "end": 151.43,
+          "text": " 빙의한"
+        },
+        {
+          "start": 151.43,
+          "end": 151.97,
+          "text": " 카리나"
+        },
+        {
+          "start": 151.97,
+          "end": 152.87,
+          "text": " 파이오니아가"
+        },
+        {
+          "start": 152.87,
+          "end": 153.87,
+          "text": " 조연"
+        },
+        {
+          "start": 153.87,
+          "end": 154.51,
+          "text": " 캐릭터라는"
+        },
+        {
+          "start": 154.51,
+          "end": 154.89,
+          "text": " 것이다."
+        }
+      ]
+    },
+    {
+      "id": "6d61841b-f78d-429c-b461-737ad9cda9b9",
+      "start": 157.17000000000002,
+      "end": 163.57,
+      "text": "캐릭터 설명에는 평범한 외모의 타티아나보다 부유하고 예쁘다고 쓰여있었지만",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 157.27,
+          "end": 157.99,
+          "text": " 캐릭터"
+        },
+        {
+          "start": 157.99,
+          "end": 158.59,
+          "text": " 설명에는"
+        },
+        {
+          "start": 158.59,
+          "end": 159.79,
+          "text": " 평범한"
+        },
+        {
+          "start": 159.79,
+          "end": 160.21,
+          "text": " 외모의"
+        },
+        {
+          "start": 160.21,
+          "end": 160.95,
+          "text": " 타티아나보다"
+        },
+        {
+          "start": 160.95,
+          "end": 161.97,
+          "text": " 부유하고"
+        },
+        {
+          "start": 161.97,
+          "end": 162.51,
+          "text": " 예쁘다고"
+        },
+        {
+          "start": 162.51,
+          "end": 163.47,
+          "text": " 쓰여있었지만"
+        }
+      ]
+    },
+    {
+      "id": "4b425625-188e-4386-adda-f8fcb060ac06",
+      "start": 163.37,
+      "end": 166.26999999999998,
+      "text": "현실은 그렇지 못했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 163.47,
+          "end": 165.35,
+          "text": " 현실은"
+        },
+        {
+          "start": 165.35,
+          "end": 165.65,
+          "text": " 그렇지"
+        },
+        {
+          "start": 165.65,
+          "end": 166.17,
+          "text": " 못했다."
+        }
+      ]
+    },
+    {
+      "id": "c641983b-650a-4d03-94f2-a1acd0862035",
+      "start": 168.85,
+      "end": 174.01,
+      "text": "나는 타티아나를 돋보이게 하기 위한 들러리일 뿐이었다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 168.95,
+          "end": 169.59,
+          "text": " 나는"
+        },
+        {
+          "start": 169.59,
+          "end": 171.09,
+          "text": " 타티아나를"
+        },
+        {
+          "start": 171.09,
+          "end": 171.67,
+          "text": " 돋보이게"
+        },
+        {
+          "start": 171.67,
+          "end": 171.89,
+          "text": " 하기"
+        },
+        {
+          "start": 171.89,
+          "end": 172.27,
+          "text": " 위한"
+        },
+        {
+          "start": 172.27,
+          "end": 173.25,
+          "text": " 들러리일"
+        },
+        {
+          "start": 173.25,
+          "end": 173.91,
+          "text": " 뿐이었다."
+        }
+      ]
+    },
+    {
+      "id": "ac840c21-b609-4f78-87a9-91ffb041f1ec",
+      "start": 175.87,
+      "end": 178.60999999999999,
+      "text": "그래도 원작이 진행되는 동안은 참을만 했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 175.97,
+          "end": 176.33,
+          "text": " 그래도"
+        },
+        {
+          "start": 176.33,
+          "end": 176.83,
+          "text": " 원작이"
+        },
+        {
+          "start": 176.83,
+          "end": 177.35,
+          "text": " 진행되는"
+        },
+        {
+          "start": 177.35,
+          "end": 177.73,
+          "text": " 동안은"
+        },
+        {
+          "start": 177.73,
+          "end": 178.15,
+          "text": " 참을만"
+        },
+        {
+          "start": 178.15,
+          "end": 178.51,
+          "text": " 했다."
+        }
+      ]
+    },
+    {
+      "id": "2c991ac7-8a97-46ca-891a-7db34310c71f",
+      "start": 179.53,
+      "end": 182.67,
+      "text": "그냥 조용히 살면 됐으니까.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 179.63,
+          "end": 180.67,
+          "text": " 그냥"
+        },
+        {
+          "start": 180.67,
+          "end": 181.65,
+          "text": " 조용히"
+        },
+        {
+          "start": 181.65,
+          "end": 181.97,
+          "text": " 살면"
+        },
+        {
+          "start": 181.97,
+          "end": 182.57,
+          "text": " 됐으니까."
+        }
+      ]
+    },
+    {
+      "id": "fb576dc3-d4f7-4c1e-a42e-ddf4c0a65362",
+      "start": 185.11,
+      "end": 187.39,
+      "text": "문제는 연애였다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 185.21,
+          "end": 186.25,
+          "text": " 문제는"
+        },
+        {
+          "start": 186.25,
+          "end": 187.29,
+          "text": " 연애였다."
+        }
+      ]
+    },
+    {
+      "id": "fb4da293-785e-4ccb-beeb-fc3f16c1fac9",
+      "start": 188.5,
+      "end": 194.5,
+      "text": "내 첫 번째 남자친구는 태종 약혼 관계였던 말피리온 소공작 다니엘.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 188.6,
+          "end": 188.76,
+          "text": " 내"
+        },
+        {
+          "start": 188.76,
+          "end": 188.98,
+          "text": " 첫"
+        },
+        {
+          "start": 188.98,
+          "end": 189.26,
+          "text": " 번째"
+        },
+        {
+          "start": 189.26,
+          "end": 190.06,
+          "text": " 남자친구는"
+        },
+        {
+          "start": 190.06,
+          "end": 191.0,
+          "text": " 태종"
+        },
+        {
+          "start": 191.0,
+          "end": 191.48,
+          "text": " 약혼"
+        },
+        {
+          "start": 191.48,
+          "end": 192.2,
+          "text": " 관계였던"
+        },
+        {
+          "start": 192.2,
+          "end": 193.16,
+          "text": " 말피리온"
+        },
+        {
+          "start": 193.16,
+          "end": 193.72,
+          "text": " 소공작"
+        },
+        {
+          "start": 193.72,
+          "end": 194.4,
+          "text": " 다니엘."
+        }
+      ]
+    },
+    {
+      "id": "803906d1-973a-4329-b3b5-78b93ae740aa",
+      "start": 196.45000000000002,
+      "end": 202.37,
+      "text": "잘생기고 매너 좋고 성격 좋았던 그는 게임 속 남주 후보 중 하나였다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 196.55,
+          "end": 197.59,
+          "text": " 잘생기고"
+        },
+        {
+          "start": 197.59,
+          "end": 197.99,
+          "text": " 매너"
+        },
+        {
+          "start": 197.99,
+          "end": 198.43,
+          "text": " 좋고"
+        },
+        {
+          "start": 198.43,
+          "end": 199.07,
+          "text": " 성격"
+        },
+        {
+          "start": 199.07,
+          "end": 199.49,
+          "text": " 좋았던"
+        },
+        {
+          "start": 199.49,
+          "end": 199.79,
+          "text": " 그는"
+        },
+        {
+          "start": 199.79,
+          "end": 200.63,
+          "text": " 게임"
+        },
+        {
+          "start": 200.63,
+          "end": 200.83,
+          "text": " 속"
+        },
+        {
+          "start": 200.83,
+          "end": 201.23,
+          "text": " 남주"
+        },
+        {
+          "start": 201.23,
+          "end": 201.45,
+          "text": " 후보"
+        },
+        {
+          "start": 201.45,
+          "end": 201.63,
+          "text": " 중"
+        },
+        {
+          "start": 201.63,
+          "end": 202.27,
+          "text": " 하나였다."
+        }
+      ]
+    },
+    {
+      "id": "37724e7d-148d-49f1-96a4-ef3976a89d88",
+      "start": 204.45000000000002,
+      "end": 208.10999999999999,
+      "text": "카린, 이대로 너와 결혼하는 건 아닌 것 같아.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 204.55,
+          "end": 205.07,
+          "text": " 카린,"
+        },
+        {
+          "start": 205.37,
+          "end": 206.27,
+          "text": " 이대로"
+        },
+        {
+          "start": 206.27,
+          "end": 206.53,
+          "text": " 너와"
+        },
+        {
+          "start": 206.53,
+          "end": 207.01,
+          "text": " 결혼하는"
+        },
+        {
+          "start": 207.01,
+          "end": 207.25,
+          "text": " 건"
+        },
+        {
+          "start": 207.25,
+          "end": 207.55,
+          "text": " 아닌"
+        },
+        {
+          "start": 207.55,
+          "end": 207.75,
+          "text": " 것"
+        },
+        {
+          "start": 207.75,
+          "end": 208.01,
+          "text": " 같아."
+        }
+      ]
+    },
+    {
+      "id": "32fe9cd3-d002-4d40-8cbc-462c564371fc",
+      "start": 208.79,
+      "end": 211.95,
+      "text": "이 게임은 다니엘이 선택됐구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 208.89,
+          "end": 209.67,
+          "text": " 이"
+        },
+        {
+          "start": 209.67,
+          "end": 210.27,
+          "text": " 게임은"
+        },
+        {
+          "start": 210.27,
+          "end": 211.15,
+          "text": " 다니엘이"
+        },
+        {
+          "start": 211.15,
+          "end": 211.85,
+          "text": " 선택됐구나."
+        }
+      ]
+    },
+    {
+      "id": "4dc36323-f29b-4243-a773-67ada9d98c56",
+      "start": 213.09,
+      "end": 214.25,
+      "text": "그래, 알겠어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 213.19,
+          "end": 213.57,
+          "text": " 그래,"
+        },
+        {
+          "start": 213.65,
+          "end": 214.15,
+          "text": " 알겠어."
+        }
+      ]
+    },
+    {
+      "id": "fceaaa88-f2e8-43b5-abc3-9301b4eadd9e",
+      "start": 215.17000000000002,
+      "end": 221.51,
+      "text": "카린, 이 일로 우리의 의정이 흔들릴 일은 없었으면 좋겠어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 215.27,
+          "end": 216.43,
+          "text": " 카린,"
+        },
+        {
+          "start": 217.05,
+          "end": 217.41,
+          "text": " 이"
+        },
+        {
+          "start": 217.41,
+          "end": 217.83,
+          "text": " 일로"
+        },
+        {
+          "start": 217.83,
+          "end": 218.51,
+          "text": " 우리의"
+        },
+        {
+          "start": 218.51,
+          "end": 218.87,
+          "text": " 의정이"
+        },
+        {
+          "start": 218.87,
+          "end": 219.45,
+          "text": " 흔들릴"
+        },
+        {
+          "start": 219.45,
+          "end": 219.79,
+          "text": " 일은"
+        },
+        {
+          "start": 219.79,
+          "end": 220.75,
+          "text": " 없었으면"
+        },
+        {
+          "start": 220.75,
+          "end": 221.41,
+          "text": " 좋겠어."
+        }
+      ]
+    },
+    {
+      "id": "4319d09f-60ac-4f4b-8ab5-55dc8da1bc8e",
+      "start": 222.99,
+      "end": 224.35,
+      "text": "물론이지.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 223.09,
+          "end": 224.25,
+          "text": " 물론이지."
+        }
+      ]
+    },
+    {
+      "id": "2cf30484-20ec-4f9b-9d82-bbbb41040ab0",
+      "start": 225.07,
+      "end": 228.54999999999998,
+      "text": "타티아나가 남자 주인공을 선택해 엔딩을 맞이했으니",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 225.17,
+          "end": 226.19,
+          "text": " 타티아나가"
+        },
+        {
+          "start": 226.19,
+          "end": 226.43,
+          "text": " 남자"
+        },
+        {
+          "start": 226.43,
+          "end": 226.95,
+          "text": " 주인공을"
+        },
+        {
+          "start": 226.95,
+          "end": 227.35,
+          "text": " 선택해"
+        },
+        {
+          "start": 227.35,
+          "end": 227.73,
+          "text": " 엔딩을"
+        },
+        {
+          "start": 227.73,
+          "end": 228.45,
+          "text": " 맞이했으니"
+        }
+      ]
+    },
+    {
+      "id": "e3072808-be5c-446b-979e-2f8b7ffb09fa",
+      "start": 228.35,
+      "end": 231.54999999999998,
+      "text": "이제 원작과 내가 엮일 일은 없을 거야.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 228.45,
+          "end": 229.43,
+          "text": " 이제"
+        },
+        {
+          "start": 229.43,
+          "end": 229.97,
+          "text": " 원작과"
+        },
+        {
+          "start": 229.97,
+          "end": 230.17,
+          "text": " 내가"
+        },
+        {
+          "start": 230.17,
+          "end": 230.65,
+          "text": " 엮일"
+        },
+        {
+          "start": 230.65,
+          "end": 230.89,
+          "text": " 일은"
+        },
+        {
+          "start": 230.89,
+          "end": 231.23,
+          "text": " 없을"
+        },
+        {
+          "start": 231.23,
+          "end": 231.45,
+          "text": " 거야."
+        }
+      ]
+    },
+    {
+      "id": "3f8bf893-14e2-4a35-9d49-95f9522f25c7",
+      "start": 232.17000000000002,
+      "end": 235.59,
+      "text": "물론 그건 착각이었다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 232.27,
+          "end": 232.73,
+          "text": " 물론"
+        },
+        {
+          "start": 232.73,
+          "end": 234.07,
+          "text": " 그건"
+        },
+        {
+          "start": 234.59,
+          "end": 235.49,
+          "text": " 착각이었다."
+        }
+      ]
+    },
+    {
+      "id": "a4a50746-2d04-495e-a30f-de0ef1efd08f",
+      "start": 236.97,
+      "end": 239.48999999999998,
+      "text": "만나서 반갑습니다, 카리나 양.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 237.07,
+          "end": 237.99,
+          "text": " 만나서"
+        },
+        {
+          "start": 237.99,
+          "end": 238.73,
+          "text": " 반갑습니다,"
+        },
+        {
+          "start": 238.85,
+          "end": 239.21,
+          "text": " 카리나"
+        },
+        {
+          "start": 239.21,
+          "end": 239.39,
+          "text": " 양."
+        }
+      ]
+    },
+    {
+      "id": "95499139-1db4-445f-ae81-53d3f7b66249",
+      "start": 241.46,
+      "end": 244.38,
+      "text": "차기 마탑주 후보, 레이먼드 카세.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 241.56,
+          "end": 242.02,
+          "text": " 차기"
+        },
+        {
+          "start": 242.02,
+          "end": 242.5,
+          "text": " 마탑주"
+        },
+        {
+          "start": 242.5,
+          "end": 242.8,
+          "text": " 후보,"
+        },
+        {
+          "start": 243.12,
+          "end": 243.88,
+          "text": " 레이먼드"
+        },
+        {
+          "start": 243.88,
+          "end": 244.28,
+          "text": " 카세."
+        }
+      ]
+    },
+    {
+      "id": "d0b7aef2-a5ad-4f15-8054-669d0298790c",
+      "start": 244.18,
+      "end": 247.34,
+      "text": "저와 사귀어 주시겠습니까?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 244.28,
+          "end": 246.06,
+          "text": " 저와"
+        },
+        {
+          "start": 246.06,
+          "end": 246.46,
+          "text": " 사귀어"
+        },
+        {
+          "start": 246.46,
+          "end": 247.24,
+          "text": " 주시겠습니까?"
+        }
+      ]
+    },
+    {
+      "id": "58d13a97-963a-4f2d-8056-5fd94a1b7f6f",
+      "start": 248.55,
+      "end": 252.25,
+      "text": "이 미남도 원작의 남주 중 한 명이었지만,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 248.65,
+          "end": 249.07,
+          "text": " 이"
+        },
+        {
+          "start": 249.07,
+          "end": 249.67,
+          "text": " 미남도"
+        },
+        {
+          "start": 249.67,
+          "end": 250.83,
+          "text": " 원작의"
+        },
+        {
+          "start": 250.83,
+          "end": 251.15,
+          "text": " 남주"
+        },
+        {
+          "start": 251.15,
+          "end": 251.29,
+          "text": " 중"
+        },
+        {
+          "start": 251.29,
+          "end": 251.43,
+          "text": " 한"
+        },
+        {
+          "start": 251.43,
+          "end": 252.15,
+          "text": " 명이었지만,"
+        }
+      ]
+    },
+    {
+      "id": "235e39e5-4e30-4fc9-b3d0-6b69dae6c109",
+      "start": 252.98000000000002,
+      "end": 258.24,
+      "text": "타티아나는 다니엘을 선택했으니까 내가 이 사람을 만나도 괜찮을 줄 알았다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 253.08,
+          "end": 253.78,
+          "text": " 타티아나는"
+        },
+        {
+          "start": 253.78,
+          "end": 254.46,
+          "text": " 다니엘을"
+        },
+        {
+          "start": 254.46,
+          "end": 255.24,
+          "text": " 선택했으니까"
+        },
+        {
+          "start": 255.24,
+          "end": 256.0,
+          "text": " 내가"
+        },
+        {
+          "start": 256.0,
+          "end": 256.2,
+          "text": " 이"
+        },
+        {
+          "start": 256.2,
+          "end": 256.56,
+          "text": " 사람을"
+        },
+        {
+          "start": 256.56,
+          "end": 256.92,
+          "text": " 만나도"
+        },
+        {
+          "start": 256.92,
+          "end": 257.48,
+          "text": " 괜찮을"
+        },
+        {
+          "start": 257.48,
+          "end": 257.62,
+          "text": " 줄"
+        },
+        {
+          "start": 257.62,
+          "end": 258.14,
+          "text": " 알았다."
+        }
+      ]
+    },
+    {
+      "id": "2a2b25fe-58a7-4ba4-bb76-170505861c3b",
+      "start": 258.27,
+      "end": 260.63,
+      "text": "그러나...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 258.37,
+          "end": 260.53,
+          "text": " 그러나..."
+        }
+      ]
+    },
+    {
+      "id": "ccda8e42-ed64-4f5b-a9f7-a3295abda6fc",
+      "start": 260.42999999999995,
+      "end": 264.19,
+      "text": "제 심장의 진짜 주인은 타티아나였습니다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 260.53,
+          "end": 262.13,
+          "text": " 제"
+        },
+        {
+          "start": 262.13,
+          "end": 262.61,
+          "text": " 심장의"
+        },
+        {
+          "start": 262.61,
+          "end": 262.93,
+          "text": " 진짜"
+        },
+        {
+          "start": 262.93,
+          "end": 263.33,
+          "text": " 주인은"
+        },
+        {
+          "start": 263.33,
+          "end": 264.09,
+          "text": " 타티아나였습니다."
+        }
+      ]
+    },
+    {
+      "id": "e923fe63-a358-4c47-957f-98b597c0951d",
+      "start": 267.60999999999996,
+      "end": 271.93,
+      "text": "카린, 레이먼드가 어찌나 나한테 질척거리는지 몰라.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 267.71,
+          "end": 268.45,
+          "text": " 카린,"
+        },
+        {
+          "start": 268.95,
+          "end": 269.85,
+          "text": " 레이먼드가"
+        },
+        {
+          "start": 269.85,
+          "end": 270.37,
+          "text": " 어찌나"
+        },
+        {
+          "start": 270.37,
+          "end": 270.67,
+          "text": " 나한테"
+        },
+        {
+          "start": 270.67,
+          "end": 271.45,
+          "text": " 질척거리는지"
+        },
+        {
+          "start": 271.45,
+          "end": 271.83,
+          "text": " 몰라."
+        }
+      ]
+    },
+    {
+      "id": "8b0d123f-617e-495d-9672-4949dfe653b9",
+      "start": 272.57,
+      "end": 273.97,
+      "text": "나도 정말 곤란하다니까.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 272.67,
+          "end": 272.85,
+          "text": " 나도"
+        },
+        {
+          "start": 272.85,
+          "end": 273.17,
+          "text": " 정말"
+        },
+        {
+          "start": 273.17,
+          "end": 273.87,
+          "text": " 곤란하다니까."
+        }
+      ]
+    },
+    {
+      "id": "064c02bd-3845-4819-b6df-3da0ba323d96",
+      "start": 275.75,
+      "end": 277.35,
+      "text": "그렇구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 275.85,
+          "end": 277.25,
+          "text": " 그렇구나."
+        }
+      ]
+    },
+    {
+      "id": "649f2a9a-dea3-4498-a78d-5957c9f12cc3",
+      "start": 277.15,
+      "end": 283.73,
+      "text": "타티아나는 원작의 여주이니 가만히 있어도 남자 주인공들이 꼬이겠구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 277.25,
+          "end": 279.09,
+          "text": " 타티아나는"
+        },
+        {
+          "start": 279.09,
+          "end": 279.69,
+          "text": " 원작의"
+        },
+        {
+          "start": 279.69,
+          "end": 280.21,
+          "text": " 여주이니"
+        },
+        {
+          "start": 280.21,
+          "end": 281.37,
+          "text": " 가만히"
+        },
+        {
+          "start": 281.37,
+          "end": 281.71,
+          "text": " 있어도"
+        },
+        {
+          "start": 281.71,
+          "end": 282.21,
+          "text": " 남자"
+        },
+        {
+          "start": 282.21,
+          "end": 282.91,
+          "text": " 주인공들이"
+        },
+        {
+          "start": 282.91,
+          "end": 283.63,
+          "text": " 꼬이겠구나."
+        }
+      ]
+    },
+    {
+      "id": "55b2c8af-2cc6-4a00-a89d-7551a01aecff",
+      "start": 284.87,
+      "end": 286.59000000000003,
+      "text": "네 탓은 아니지만,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 284.97,
+          "end": 285.53,
+          "text": " 네"
+        },
+        {
+          "start": 285.53,
+          "end": 285.95,
+          "text": " 탓은"
+        },
+        {
+          "start": 285.95,
+          "end": 286.49,
+          "text": " 아니지만,"
+        }
+      ]
+    },
+    {
+      "id": "34694ab2-3551-4dfa-92c4-d435c0327dc1",
+      "start": 287.40999999999997,
+      "end": 289.01000000000005,
+      "text": "현타가 오긴 하네.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 287.51,
+          "end": 288.31,
+          "text": " 현타가"
+        },
+        {
+          "start": 288.31,
+          "end": 288.63,
+          "text": " 오긴"
+        },
+        {
+          "start": 288.63,
+          "end": 288.91,
+          "text": " 하네."
+        }
+      ]
+    },
+    {
+      "id": "99e48244-5665-4020-a302-8e96ba4dc2fb",
+      "start": 291.34,
+      "end": 294.62,
+      "text": "그 이후 나는 엑스트라급의 남자들과 어울렸고,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 291.44,
+          "end": 291.9,
+          "text": " 그"
+        },
+        {
+          "start": 291.9,
+          "end": 292.1,
+          "text": " 이후"
+        },
+        {
+          "start": 292.1,
+          "end": 292.38,
+          "text": " 나는"
+        },
+        {
+          "start": 292.38,
+          "end": 293.32,
+          "text": " 엑스트라급의"
+        },
+        {
+          "start": 293.32,
+          "end": 293.86,
+          "text": " 남자들과"
+        },
+        {
+          "start": 293.86,
+          "end": 294.52,
+          "text": " 어울렸고,"
+        }
+      ]
+    },
+    {
+      "id": "bf42917a-72a8-4012-956b-c251e2f3bda5",
+      "start": 295.12,
+      "end": 298.62,
+      "text": "그러다 평범한 자작가의 장남과 사랑에 빠졌다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 295.22,
+          "end": 295.92,
+          "text": " 그러다"
+        },
+        {
+          "start": 295.92,
+          "end": 296.48,
+          "text": " 평범한"
+        },
+        {
+          "start": 296.48,
+          "end": 297.06,
+          "text": " 자작가의"
+        },
+        {
+          "start": 297.06,
+          "end": 297.7,
+          "text": " 장남과"
+        },
+        {
+          "start": 297.7,
+          "end": 298.04,
+          "text": " 사랑에"
+        },
+        {
+          "start": 298.04,
+          "end": 298.52,
+          "text": " 빠졌다."
+        }
+      ]
+    },
+    {
+      "id": "fba2f3ab-e1f5-4a28-b070-b85bd37b2d75",
+      "start": 301.47999999999996,
+      "end": 309.62,
+      "text": "그동안 이 세계에 안착하지 못하고 관망하며 부유하던 나를 지상으로 끌고 내려와준 유일한 존재.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 301.58,
+          "end": 302.04,
+          "text": " 그동안"
+        },
+        {
+          "start": 302.04,
+          "end": 302.24,
+          "text": " 이"
+        },
+        {
+          "start": 302.24,
+          "end": 302.58,
+          "text": " 세계에"
+        },
+        {
+          "start": 302.58,
+          "end": 303.14,
+          "text": " 안착하지"
+        },
+        {
+          "start": 303.14,
+          "end": 303.64,
+          "text": " 못하고"
+        },
+        {
+          "start": 303.64,
+          "end": 305.14,
+          "text": " 관망하며"
+        },
+        {
+          "start": 305.14,
+          "end": 305.88,
+          "text": " 부유하던"
+        },
+        {
+          "start": 305.88,
+          "end": 306.26,
+          "text": " 나를"
+        },
+        {
+          "start": 306.26,
+          "end": 307.3,
+          "text": " 지상으로"
+        },
+        {
+          "start": 307.3,
+          "end": 307.64,
+          "text": " 끌고"
+        },
+        {
+          "start": 307.64,
+          "end": 308.22,
+          "text": " 내려와준"
+        },
+        {
+          "start": 308.22,
+          "end": 308.98,
+          "text": " 유일한"
+        },
+        {
+          "start": 308.98,
+          "end": 309.52,
+          "text": " 존재."
+        }
+      ]
+    },
+    {
+      "id": "3933a4e5-2dc8-4fd4-900f-cbf42e0ade44",
+      "start": 309.41999999999996,
+      "end": 310.96000000000004,
+      "text": "나는",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 309.52,
+          "end": 310.86,
+          "text": " 나는"
+        }
+      ]
+    },
+    {
+      "id": "d0a583fe-1f35-43a2-a06a-f86060c6c83f",
+      "start": 312.13,
+      "end": 314.39000000000004,
+      "text": "진짜 연애를 했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 312.23,
+          "end": 313.39,
+          "text": " 진짜"
+        },
+        {
+          "start": 313.39,
+          "end": 313.83,
+          "text": " 연애를"
+        },
+        {
+          "start": 313.83,
+          "end": 314.29,
+          "text": " 했다."
+        }
+      ]
+    },
+    {
+      "id": "fa0e7ee5-b616-46ea-9aa8-8bfbfe9b74f5",
+      "start": 319.09,
+      "end": 320.21000000000004,
+      "text": "미안해.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 319.19,
+          "end": 320.11,
+          "text": " 미안해."
+        }
+      ]
+    },
+    {
+      "id": "23b466e9-7f74-4ebc-aa31-2e71fb1f32fb",
+      "start": 320.53,
+      "end": 323.97,
+      "text": "나 사실 타티아나에게 흔들리고 있어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 320.63,
+          "end": 321.15,
+          "text": " 나"
+        },
+        {
+          "start": 321.15,
+          "end": 321.55,
+          "text": " 사실"
+        },
+        {
+          "start": 321.55,
+          "end": 323.03,
+          "text": " 타티아나에게"
+        },
+        {
+          "start": 323.03,
+          "end": 323.57,
+          "text": " 흔들리고"
+        },
+        {
+          "start": 323.57,
+          "end": 323.87,
+          "text": " 있어."
+        }
+      ]
+    },
+    {
+      "id": "1a05ea09-bf01-4c31-9791-25075d9b0a5a",
+      "start": 326.58,
+      "end": 333.8,
+      "text": "이 세계는 공작가의 영예라는 지위도, 아름다운 외모도,\n능력도...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 326.68,
+          "end": 327.76,
+          "text": " 이"
+        },
+        {
+          "start": 327.76,
+          "end": 328.42,
+          "text": " 세계는"
+        },
+        {
+          "start": 328.42,
+          "end": 329.94,
+          "text": " 공작가의"
+        },
+        {
+          "start": 329.94,
+          "end": 330.5,
+          "text": " 영예라는"
+        },
+        {
+          "start": 330.5,
+          "end": 331.02,
+          "text": " 지위도,"
+        },
+        {
+          "start": 331.28,
+          "end": 332.04,
+          "text": " 아름다운"
+        },
+        {
+          "start": 332.04,
+          "end": 332.44,
+          "text": " 외모도,"
+        },
+        {
+          "start": 332.52,
+          "end": 333.7,
+          "text": " 능력도..."
+        }
+      ]
+    },
+    {
+      "id": "9b52d687-9bef-4cab-8c6a-3e7a020a109a",
+      "start": 334.10999999999996,
+      "end": 337.51000000000005,
+      "text": "주인공 앞에서는 아무 의미가 없구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 334.21,
+          "end": 335.11,
+          "text": " 주인공"
+        },
+        {
+          "start": 335.11,
+          "end": 335.87,
+          "text": " 앞에서는"
+        },
+        {
+          "start": 335.87,
+          "end": 336.59,
+          "text": " 아무"
+        },
+        {
+          "start": 336.59,
+          "end": 336.97,
+          "text": " 의미가"
+        },
+        {
+          "start": 336.97,
+          "end": 337.41,
+          "text": " 없구나."
+        }
+      ]
+    },
+    {
+      "id": "491a7269-01b4-4a52-98c5-24bf32ee6b11",
+      "start": 338.39,
+      "end": 344.87,
+      "text": "타티아나는 어째서 게임 속 남주가 아닌 평범한 자작가의 남자를 선택한 걸까?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 338.49,
+          "end": 339.57,
+          "text": " 타티아나는"
+        },
+        {
+          "start": 339.57,
+          "end": 340.65,
+          "text": " 어째서"
+        },
+        {
+          "start": 340.65,
+          "end": 340.87,
+          "text": " 게임"
+        },
+        {
+          "start": 340.87,
+          "end": 341.05,
+          "text": " 속"
+        },
+        {
+          "start": 341.05,
+          "end": 341.49,
+          "text": " 남주가"
+        },
+        {
+          "start": 341.49,
+          "end": 341.73,
+          "text": " 아닌"
+        },
+        {
+          "start": 341.73,
+          "end": 342.85,
+          "text": " 평범한"
+        },
+        {
+          "start": 342.85,
+          "end": 343.41,
+          "text": " 자작가의"
+        },
+        {
+          "start": 343.41,
+          "end": 343.83,
+          "text": " 남자를"
+        },
+        {
+          "start": 343.83,
+          "end": 344.43,
+          "text": " 선택한"
+        },
+        {
+          "start": 344.43,
+          "end": 344.77,
+          "text": " 걸까?"
+        }
+      ]
+    },
+    {
+      "id": "604439d8-5807-461e-bf72-74948f458264",
+      "start": 344.66999999999996,
+      "end": 350.17,
+      "text": "혹시 내 연인들에게 일부러 접근한 건 아닌지 의구심이 들기도 했지만,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 344.77,
+          "end": 346.11,
+          "text": " 혹시"
+        },
+        {
+          "start": 346.11,
+          "end": 346.31,
+          "text": " 내"
+        },
+        {
+          "start": 346.31,
+          "end": 346.91,
+          "text": " 연인들에게"
+        },
+        {
+          "start": 346.91,
+          "end": 347.33,
+          "text": " 일부러"
+        },
+        {
+          "start": 347.33,
+          "end": 347.75,
+          "text": " 접근한"
+        },
+        {
+          "start": 347.75,
+          "end": 347.87,
+          "text": " 건"
+        },
+        {
+          "start": 347.87,
+          "end": 348.33,
+          "text": " 아닌지"
+        },
+        {
+          "start": 348.33,
+          "end": 349.23,
+          "text": " 의구심이"
+        },
+        {
+          "start": 349.23,
+          "end": 349.61,
+          "text": " 들기도"
+        },
+        {
+          "start": 349.61,
+          "end": 350.07,
+          "text": " 했지만,"
+        }
+      ]
+    },
+    {
+      "id": "200aef2b-fefd-4ca3-b54f-2deca3899626",
+      "start": 351.37,
+      "end": 355.23,
+      "text": "한미한 가문의 남자인 줄 알았던 그의 진짜 정체가",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 351.47,
+          "end": 352.41,
+          "text": " 한미한"
+        },
+        {
+          "start": 352.41,
+          "end": 352.83,
+          "text": " 가문의"
+        },
+        {
+          "start": 352.83,
+          "end": 353.25,
+          "text": " 남자인"
+        },
+        {
+          "start": 353.25,
+          "end": 353.39,
+          "text": " 줄"
+        },
+        {
+          "start": 353.39,
+          "end": 353.87,
+          "text": " 알았던"
+        },
+        {
+          "start": 353.87,
+          "end": 354.21,
+          "text": " 그의"
+        },
+        {
+          "start": 354.21,
+          "end": 354.61,
+          "text": " 진짜"
+        },
+        {
+          "start": 354.61,
+          "end": 355.13,
+          "text": " 정체가"
+        }
+      ]
+    },
+    {
+      "id": "80dac8d4-0c2d-41ec-a5e3-353768616fb9",
+      "start": 355.03,
+      "end": 362.01000000000005,
+      "text": "현 황제의 이복형제이자 황제의 난에서 실종된 후 유일한 상황족이라고 밝혀진 후,",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 355.13,
+          "end": 356.53,
+          "text": " 현"
+        },
+        {
+          "start": 356.79,
+          "end": 357.33,
+          "text": " 황제의"
+        },
+        {
+          "start": 357.33,
+          "end": 358.25,
+          "text": " 이복형제이자"
+        },
+        {
+          "start": 358.25,
+          "end": 359.09,
+          "text": " 황제의"
+        },
+        {
+          "start": 359.09,
+          "end": 359.43,
+          "text": " 난에서"
+        },
+        {
+          "start": 359.43,
+          "end": 360.01,
+          "text": " 실종된"
+        },
+        {
+          "start": 360.01,
+          "end": 360.13,
+          "text": " 후"
+        },
+        {
+          "start": 360.13,
+          "end": 360.55,
+          "text": " 유일한"
+        },
+        {
+          "start": 360.55,
+          "end": 361.25,
+          "text": " 상황족이라고"
+        },
+        {
+          "start": 361.25,
+          "end": 361.79,
+          "text": " 밝혀진"
+        },
+        {
+          "start": 361.79,
+          "end": 361.91,
+          "text": " 후,"
+        }
+      ]
+    },
+    {
+      "id": "1b86cef8-e792-4a1d-ad2c-c099f73af8e3",
+      "start": 362.59,
+      "end": 364.05,
+      "text": "전부 이해가 됐다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 362.69,
+          "end": 363.15,
+          "text": " 전부"
+        },
+        {
+          "start": 363.15,
+          "end": 363.47,
+          "text": " 이해가"
+        },
+        {
+          "start": 363.47,
+          "end": 363.95,
+          "text": " 됐다."
+        }
+      ]
+    },
+    {
+      "id": "0ee44bc1-46a6-424f-97ff-2b8cfece456c",
+      "start": 363.84999999999997,
+      "end": 367.75,
+      "text": "앤드류, 르브론, 글로스터...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 363.95,
+          "end": 365.83,
+          "text": " 앤드류,"
+        },
+        {
+          "start": 366.01,
+          "end": 366.43,
+          "text": " 르브론,"
+        },
+        {
+          "start": 366.55,
+          "end": 367.65,
+          "text": " 글로스터..."
+        }
+      ]
+    },
+    {
+      "id": "7999983d-2b8a-47eb-803b-48ad910bc9e2",
+      "start": 367.71,
+      "end": 374.67,
+      "text": "황족이 들러리가 아닌 여자 주인공과 엮이는 건 당연한 일이니까...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 367.81,
+          "end": 368.73,
+          "text": " 황족이"
+        },
+        {
+          "start": 368.73,
+          "end": 369.19,
+          "text": " 들러리가"
+        },
+        {
+          "start": 369.19,
+          "end": 369.49,
+          "text": " 아닌"
+        },
+        {
+          "start": 369.49,
+          "end": 370.17,
+          "text": " 여자"
+        },
+        {
+          "start": 370.17,
+          "end": 370.91,
+          "text": " 주인공과"
+        },
+        {
+          "start": 370.91,
+          "end": 371.33,
+          "text": " 엮이는"
+        },
+        {
+          "start": 371.33,
+          "end": 371.61,
+          "text": " 건"
+        },
+        {
+          "start": 371.61,
+          "end": 373.45,
+          "text": " 당연한"
+        },
+        {
+          "start": 373.45,
+          "end": 374.57,
+          "text": " 일이니까..."
+        }
+      ]
+    },
+    {
+      "id": "17dabea7-3f6e-4b26-aae2-f40ea135959d",
+      "start": 374.95,
+      "end": 378.81,
+      "text": "그가 헤어지고 얼마 뒤 타티아나의 결혼 수식을 들었다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 375.05,
+          "end": 375.57,
+          "text": " 그가"
+        },
+        {
+          "start": 375.57,
+          "end": 376.11,
+          "text": " 헤어지고"
+        },
+        {
+          "start": 376.11,
+          "end": 376.33,
+          "text": " 얼마"
+        },
+        {
+          "start": 376.33,
+          "end": 376.59,
+          "text": " 뒤"
+        },
+        {
+          "start": 376.59,
+          "end": 377.57,
+          "text": " 타티아나의"
+        },
+        {
+          "start": 377.57,
+          "end": 377.87,
+          "text": " 결혼"
+        },
+        {
+          "start": 377.87,
+          "end": 378.29,
+          "text": " 수식을"
+        },
+        {
+          "start": 378.29,
+          "end": 378.71,
+          "text": " 들었다."
+        }
+      ]
+    },
+    {
+      "id": "097a9119-b041-4350-a591-3b9b32aeaad3",
+      "start": 379.96999999999997,
+      "end": 383.23,
+      "text": "이젠 정말로 엔딩을 맺었구나.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 380.07,
+          "end": 381.11,
+          "text": " 이젠"
+        },
+        {
+          "start": 381.11,
+          "end": 382.15,
+          "text": " 정말로"
+        },
+        {
+          "start": 382.15,
+          "end": 382.53,
+          "text": " 엔딩을"
+        },
+        {
+          "start": 382.53,
+          "end": 383.13,
+          "text": " 맺었구나."
+        }
+      ]
+    },
+    {
+      "id": "1b4fe022-5bfa-4af7-843a-12ecd6ea0888",
+      "start": 384.75,
+      "end": 391.05,
+      "text": "원작이 끝난 지도 3년이 됐고, 타티아나는 결혼까지 했으니 더는 엮일 일이 없다고 생각했다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 384.85,
+          "end": 385.65,
+          "text": " 원작이"
+        },
+        {
+          "start": 385.65,
+          "end": 385.97,
+          "text": " 끝난"
+        },
+        {
+          "start": 385.97,
+          "end": 386.21,
+          "text": " 지도"
+        },
+        {
+          "start": 386.21,
+          "end": 386.65,
+          "text": " 3년이"
+        },
+        {
+          "start": 386.65,
+          "end": 387.03,
+          "text": " 됐고,"
+        },
+        {
+          "start": 387.23,
+          "end": 387.97,
+          "text": " 타티아나는"
+        },
+        {
+          "start": 387.97,
+          "end": 388.49,
+          "text": " 결혼까지"
+        },
+        {
+          "start": 388.49,
+          "end": 388.93,
+          "text": " 했으니"
+        },
+        {
+          "start": 388.93,
+          "end": 389.49,
+          "text": " 더는"
+        },
+        {
+          "start": 389.49,
+          "end": 389.85,
+          "text": " 엮일"
+        },
+        {
+          "start": 389.85,
+          "end": 389.99,
+          "text": " 일이"
+        },
+        {
+          "start": 389.99,
+          "end": 390.35,
+          "text": " 없다고"
+        },
+        {
+          "start": 390.35,
+          "end": 390.95,
+          "text": " 생각했다."
+        }
+      ]
+    },
+    {
+      "id": "4ac6d3a3-e58a-4329-bf87-c3f0a2a4580b",
+      "start": 392.22999999999996,
+      "end": 396.51000000000005,
+      "text": "이번에는 정말 괜찮은 줄 알았는데...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 392.33,
+          "end": 392.93,
+          "text": " 이번에는"
+        },
+        {
+          "start": 392.93,
+          "end": 393.95,
+          "text": " 정말"
+        },
+        {
+          "start": 393.95,
+          "end": 394.55,
+          "text": " 괜찮은"
+        },
+        {
+          "start": 394.55,
+          "end": 394.69,
+          "text": " 줄"
+        },
+        {
+          "start": 394.69,
+          "end": 396.41,
+          "text": " 알았는데..."
+        }
+      ]
+    },
+    {
+      "id": "19a3b4c3-d3f4-4d92-804a-510963d6fce8",
+      "start": 396.89,
+      "end": 398.97,
+      "text": "그런데 이렇게 뒤통수를 맞을 줄이야.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 396.99,
+          "end": 397.23,
+          "text": " 그런데"
+        },
+        {
+          "start": 397.23,
+          "end": 397.53,
+          "text": " 이렇게"
+        },
+        {
+          "start": 397.53,
+          "end": 398.11,
+          "text": " 뒤통수를"
+        },
+        {
+          "start": 398.11,
+          "end": 398.47,
+          "text": " 맞을"
+        },
+        {
+          "start": 398.47,
+          "end": 398.87,
+          "text": " 줄이야."
+        }
+      ]
+    },
+    {
+      "id": "6774808d-3ed2-454e-a7d4-2288c97f334b",
+      "start": 400.22999999999996,
+      "end": 404.77000000000004,
+      "text": "티티, 마음과 상관없이 나는 내 심장까지도 줄 수 있어.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 400.33,
+          "end": 400.89,
+          "text": " 티티,"
+        },
+        {
+          "start": 401.17,
+          "end": 402.03,
+          "text": " 마음과"
+        },
+        {
+          "start": 402.03,
+          "end": 402.51,
+          "text": " 상관없이"
+        },
+        {
+          "start": 402.51,
+          "end": 402.77,
+          "text": " 나는"
+        },
+        {
+          "start": 402.77,
+          "end": 403.27,
+          "text": " 내"
+        },
+        {
+          "start": 403.27,
+          "end": 403.99,
+          "text": " 심장까지도"
+        },
+        {
+          "start": 403.99,
+          "end": 404.19,
+          "text": " 줄"
+        },
+        {
+          "start": 404.19,
+          "end": 404.33,
+          "text": " 수"
+        },
+        {
+          "start": 404.33,
+          "end": 404.67,
+          "text": " 있어."
+        }
+      ]
+    },
+    {
+      "id": "2c89c5cc-73f2-46e0-b90b-539225a752d1",
+      "start": 405.53,
+      "end": 406.85,
+      "text": "그러니까...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 405.63,
+          "end": 406.75,
+          "text": " 그러니까..."
+        }
+      ]
+    },
+    {
+      "id": "6604d668-d86b-43ae-961f-0e27fa70fee7",
+      "start": 408.31,
+      "end": 412.07000000000005,
+      "text": "지금 본인이 쓰레기라고 말씀하시는 거네요?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 408.41,
+          "end": 409.03,
+          "text": " 지금"
+        },
+        {
+          "start": 409.03,
+          "end": 409.63,
+          "text": " 본인이"
+        },
+        {
+          "start": 409.63,
+          "end": 410.85,
+          "text": " 쓰레기라고"
+        },
+        {
+          "start": 410.85,
+          "end": 411.57,
+          "text": " 말씀하시는"
+        },
+        {
+          "start": 411.57,
+          "end": 411.97,
+          "text": " 거네요?"
+        }
+      ]
+    },
+    {
+      "id": "977ea0d3-2cde-43b6-8302-d584f8e9e512",
+      "start": 417.01,
+      "end": 421.71000000000004,
+      "text": "오늘 뱉은 말의 대가는 툭툭히 치르셔야 할 겁니다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 417.11,
+          "end": 417.67,
+          "text": " 오늘"
+        },
+        {
+          "start": 417.67,
+          "end": 418.65,
+          "text": " 뱉은"
+        },
+        {
+          "start": 418.65,
+          "end": 418.93,
+          "text": " 말의"
+        },
+        {
+          "start": 418.93,
+          "end": 419.29,
+          "text": " 대가는"
+        },
+        {
+          "start": 419.29,
+          "end": 420.53,
+          "text": " 툭툭히"
+        },
+        {
+          "start": 420.53,
+          "end": 421.15,
+          "text": " 치르셔야"
+        },
+        {
+          "start": 421.15,
+          "end": 421.29,
+          "text": " 할"
+        },
+        {
+          "start": 421.29,
+          "end": 421.61,
+          "text": " 겁니다."
+        }
+      ]
+    },
+    {
+      "id": "ac8fd259-45bc-43cd-8974-05e7bf327fc7",
+      "start": 423.60999999999996,
+      "end": 425.89000000000004,
+      "text": "나도 멍청하게 당하고 참는 건...",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 423.71,
+          "end": 423.93,
+          "text": " 나도"
+        },
+        {
+          "start": 423.93,
+          "end": 424.61,
+          "text": " 멍청하게"
+        },
+        {
+          "start": 424.61,
+          "end": 424.97,
+          "text": " 당하고"
+        },
+        {
+          "start": 424.97,
+          "end": 425.31,
+          "text": " 참는"
+        },
+        {
+          "start": 425.31,
+          "end": 425.79,
+          "text": " 건..."
+        }
+      ]
+    },
+    {
+      "id": "d80678cf-1aaa-45bc-96b0-485808ff34f6",
+      "start": 425.69,
+      "end": 427.67,
+      "text": "이제 질려버렸거든?",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 425.79,
+          "end": 426.55,
+          "text": " 이제"
+        },
+        {
+          "start": 426.55,
+          "end": 427.57,
+          "text": " 질려버렸거든?"
+        }
+      ]
+    },
+    {
+      "id": "f700fce1-2ded-4b16-a5c2-f602484f5db0",
+      "start": 428.37,
+      "end": 431.65000000000003,
+      "text": "여주의 첫사랑을 빼앗아 버렸다.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 428.47,
+          "end": 429.85,
+          "text": " 여주의"
+        },
+        {
+          "start": 429.85,
+          "end": 430.63,
+          "text": " 첫사랑을"
+        },
+        {
+          "start": 430.63,
+          "end": 431.05,
+          "text": " 빼앗아"
+        },
+        {
+          "start": 431.05,
+          "end": 431.55,
+          "text": " 버렸다."
+        }
+      ]
+    },
+    {
+      "id": "4b7ce69b-3d72-4a1c-aada-c3209c2c6c9c",
+      "start": 431.45,
+      "end": 431.71000000000004,
+      "text": "여러분, 저의 주인공과 함께 정말로 벗겨 하는 게 더 좋은 것이네요.",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 여러분,"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 저의"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 주인공과"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 함께"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 정말로"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 벗겨"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 하는"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 게"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 더"
+        },
+        {
+          "start": 431.55,
+          "end": 431.55,
+          "text": " 좋은"
+        },
+        {
+          "start": 431.55,
+          "end": 431.61,
+          "text": " 것이네요."
+        }
+      ]
+    },
+    {
+      "id": "6cef9541-3b96-4d5d-a707-f8e0441187dd",
+      "start": 432.15,
+      "end": 433.13,
+      "text": "그래서 우리의 주인공과 함께 정말로 벗겨가는 사람은 음색인 툭툭히 치면서",
+      "status": "FINAL",
+      "is_hidden": false,
+      "words": [
+        {
+          "start": 432.25,
+          "end": 432.27,
+          "text": " 그래서"
+        },
+        {
+          "start": 432.27,
+          "end": 432.27,
+          "text": " 우리의"
+        },
+        {
+          "start": 432.27,
+          "end": 432.27,
+          "text": " 주인공과"
+        },
+        {
+          "start": 432.27,
+          "end": 432.27,
+          "text": " 함께"
+        },
+        {
+          "start": 432.27,
+          "end": 432.63,
+          "text": " 정말로"
+        },
+        {
+          "start": 432.63,
+          "end": 433.03,
+          "text": " 벗겨가는"
+        },
+        {
+          "start": 433.03,
+          "end": 433.03,
+          "text": " 사람은"
+        },
+        {
+          "start": 433.03,
+          "end": 433.03,
+          "text": " 음색인"
+        },
+        {
+          "start": 433.03,
+          "end": 433.03,
+          "text": " 툭툭히"
+        },
+        {
+          "start": 433.03,
+          "end": 433.03,
+          "text": " 치면서"
+        }
+      ]
+    }
+  ],
+  "audio_file": "C:/Users/Goryeng/Videos/작업/여주의 첫사랑을 빼앗아 버렸다.mp4",
+  "media_file": "C:/Users/Goryeng/Videos/작업/여주의 첫사랑을 빼앗아 버렸다.mp4",
+  "view_state": {
+    "active_editor": "file",
+    "waveform_zoom_start": 0.0,
+    "waveform_zoom_end": 1.3342867704913355,
+    "live_scroll_time": 15.44,
+    "file_scroll_time": 0.9700000000000001
+  }
+}
