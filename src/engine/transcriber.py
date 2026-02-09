@@ -224,26 +224,35 @@ class WhisperTranscriberProcess:
                             data={"model_path": models_dir, "base_path": base_path},
                         )
 
-                        # Explicitly download first to ensure we have files without symlinks issues
-                        try:
-                            # Try downloading to local dir which avoids symlinks usually
-                            # faster_whisper's download_model uses hf_hub_download.
-                            # We pass output_dir to force local download.
-                            model_path = download_model(
-                                model_size,
-                                output_dir=os.path.join(
-                                    models_dir, f"faster-whisper-{model_size}"
-                                ),
-                                local_files_only=False,
-                            )
-                        except Exception as dl_error:
-                            log(
-                                "Download retry with fallback",
-                                request_id=model_load_request_id,
-                                level="WARNING",
-                                data={"download_error": str(dl_error)},
-                            )
-                            model_path = model_size  # Fallback
+                        # Custom Model Logic
+                        if model_size == "Custom Model...":
+                            custom_path = config.get("custom_model_path", "")
+                            if not custom_path or not os.path.exists(custom_path):
+                                raise ValueError("Custom model path is invalid or empty.")
+                            model_path = custom_path
+                            log(f"Using Custom Model from: {model_path}")
+                        else:
+                            # Standard Download Logic
+                            # Explicitly download first to ensure we have files without symlinks issues
+                            try:
+                                # Try downloading to local dir which avoids symlinks usually
+                                # faster_whisper's download_model uses hf_hub_download.
+                                # We pass output_dir to force local download.
+                                model_path = download_model(
+                                    model_size,
+                                    output_dir=os.path.join(
+                                        models_dir, f"faster-whisper-{model_size}"
+                                    ),
+                                    local_files_only=False,
+                                )
+                            except Exception as dl_error:
+                                log(
+                                    "Download retry with fallback",
+                                    request_id=model_load_request_id,
+                                    level="WARNING",
+                                    data={"download_error": str(dl_error)},
+                                )
+                                model_path = model_size  # Fallback
 
                         model = WhisperModel(
                             model_path, device=device, compute_type=compute_type

@@ -3259,9 +3259,8 @@ class MainWindow(QMainWindow):
             self._file_subtitle_manager, merge_len, merge_gap
         )
 
-        # Post-processing: prevent overlaps
-        if self._enable_file_post_processing:
-            self._file_subtitle_manager.prevent_overlaps()
+        # Post-processing: always prevent overlaps after File STT
+        self._file_subtitle_manager.prevent_overlaps()
 
         # Final Sort to ensure time order (Fix for "Time Reversal" issue)
         self._file_subtitle_manager.segments.sort(key=lambda s: s.start)
@@ -4809,7 +4808,7 @@ class MainWindow(QMainWindow):
             self._export_lora_data_right()
 
     def _export_lora_data_left(self):
-        """Export LoRA training data from LEFT (>= 5s segments) to ./whisper_lora_data."""
+        """Export LoRA training data from LEFT (>= 3s segments) to ./whisper_lora_data."""
         from pathlib import Path
         import json
         import wave
@@ -4824,14 +4823,14 @@ class MainWindow(QMainWindow):
             for s in self._subtitle_manager.segments
             if (not getattr(s, "is_hidden", False))
             and (s.text or "").strip()
-            and (s.end - s.start) >= 5.0
+            and (s.end - s.start) >= 3.0
         ]
 
         if not segments:
             QMessageBox.information(
                 self,
                 "내보내기",
-                "5초 이상의 자막 구간이 없습니다.",
+                "3초 이상의 자막 구간이 없습니다.",
             )
             return
 
@@ -4866,7 +4865,8 @@ class MainWindow(QMainWindow):
                 wf.setframerate(16000)
                 wf.writeframes(audio_i16.tobytes())
 
-            txt_path.write_text(seg.text.strip(), encoding="utf-8")
+            # Export text as single line (remove newlines)
+            txt_path.write_text(seg.text.strip().replace("\n", " "), encoding="utf-8")
 
             manifest.append(
                 {
@@ -4907,7 +4907,7 @@ class MainWindow(QMainWindow):
             for s in self._file_subtitle_manager.segments
             if (not getattr(s, "is_hidden", False))
             and (s.text or "").strip()
-            and (s.end - s.start) >= 5.0
+            and (s.end - s.start) >= 3.0
             and getattr(s, "words", None)
             and len(getattr(s, "words", [])) > 0
         ]
@@ -4915,7 +4915,7 @@ class MainWindow(QMainWindow):
             QMessageBox.information(
                 self,
                 "내보내기",
-                "우측 에디터에 5초 이상 + word timestamps가 있는 자막이 없습니다.",
+                "우측 에디터에 3초 이상 + word timestamps가 있는 자막이 없습니다.",
             )
             return
 
@@ -4966,7 +4966,11 @@ class MainWindow(QMainWindow):
                 str(wav_path),
             ]
             try:
-                subprocess.run(cmd, check=True, capture_output=True, text=True)
+                # Use CREATE_NO_WINDOW to hide CMD window
+                startupinfo = subprocess.STARTUPINFO()
+                startupinfo.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+                startupinfo.wShowWindow = subprocess.SW_HIDE
+                subprocess.run(cmd, check=True, capture_output=True, text=True, startupinfo=startupinfo)
             except FileNotFoundError:
                 ffmpeg_missing = True
                 break
@@ -4977,7 +4981,8 @@ class MainWindow(QMainWindow):
                 ffmpeg_failed += 1
                 continue
 
-            txt_path.write_text(seg.text.strip(), encoding="utf-8")
+            # Export text as single line (remove newlines)
+            txt_path.write_text(seg.text.strip().replace("\n", " "), encoding="utf-8")
             manifest.append(
                 {
                     "wav": str(wav_path.name),

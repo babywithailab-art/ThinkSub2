@@ -125,18 +125,17 @@ class MergeSegmentsCommand(Command):
         return False
 
     def undo(self):
-        if not self.merged_segment_id:
+        if not self.merged_segment_id or not self.original_segments:
             return
 
-        # 1. Remove the merged segment
+        # 1. Remove the merged segment (which uses the first original's ID)
         self.manager.delete_segments([self.merged_segment_id], save_undo=False)
 
-        # 2. Restore original segments
-        # We simply add them back. Manager sorts them automatically or we rely on logic.
+        # 2. Restore ALL original segments unconditionally
+        # The merged segment reuses the first segment's ID, so after deletion
+        # we need to re-add all originals including the first one.
         for seg in self.original_segments:
-            # Check if exists (paranoia)
-            if not self.manager.get_segment(seg.id):
-                self.manager.add_segment(copy.deepcopy(seg), save_undo=False)
+            self.manager.add_segment(copy.deepcopy(seg), save_undo=False)
 
 
 class DeleteSegmentsCommand(Command):

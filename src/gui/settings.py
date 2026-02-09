@@ -21,6 +21,7 @@ from PySide6.QtWidgets import (
     QMessageBox,
     QPlainTextEdit,
     QScrollArea,
+    QFileDialog,
 )
 from PySide6.QtCore import Signal, QSettings, QTimer, Qt
 from PySide6.QtGui import QBrush, QColor
@@ -155,6 +156,10 @@ class SettingsDialog(MagneticDialog):
         "ffmpeg_min_silence_duration": 0.5,
         "ffmpeg_padding_ms": 100,
         "ffmpeg_split_30min": False,
+        "ffmpeg_padding_ms": 100,
+        "ffmpeg_split_30min": False,
+        # --- Custom Model ---
+        "custom_model_path": "",
     }
 
     def __init__(self, parent=None):
@@ -304,9 +309,45 @@ class SettingsDialog(MagneticDialog):
             i18n.install_translator(str(self._current["ui_language"]))
             self.retranslate_ui()
 
+    def _on_model_changed(self, text):
+        self._update_custom_model_visibility()
+        self._on_change()
+
+    def _update_custom_model_visibility(self):
+        is_custom = self.combo_model.currentText() == "Custom Model..."
+        if hasattr(self, "custom_model_widget"):
+            self.custom_model_widget.setVisible(is_custom)
+            # Label visibility hack (QFormLayout manages labels internally)
+            # We need to find the label for the row. 
+            # Simplified approach: Just toggle widget, layout handles space?
+            # QFormLayout sometimes leaves empty space.
+            # Let's try to find the label if possible, or just rely on widget visibility.
+            layout = self.custom_model_widget.parentWidget().layout()
+            if isinstance(layout, QFormLayout):
+                label = layout.labelForField(self.custom_model_widget)
+                if label:
+                    label.setVisible(is_custom)
+
+    def _browse_custom_model(self):
+        # Allow selecting the model file (model.bin) to make it easier to find the folder
+        file_path, _ = QFileDialog.getOpenFileName(
+            self,
+            "모델 파일 선택 (model.bin)",
+            "",
+            "Model Files (*.bin);;All Files (*.*)",
+        )
+        if file_path:
+            # Faster-Whisper expects the folder path, not the file path
+            # But the user feels safer picking the file.
+            # We will use the directory of the selected file.
+            folder_path = os.path.dirname(file_path)
+            self.line_custom_model.setText(folder_path)
+            self._on_change()
+
     def _update_current_from_ui(self):
         """Update self._current dict from UI widgets."""
         self._current["model"] = self.combo_model.currentText()
+        self._current["custom_model_path"] = self.line_custom_model.text()
         self._current["language"] = self.combo_language.currentText()
         self._current["device"] = self.combo_device.currentText()
         self._current["compute_type"] = self.combo_compute_type.currentText()
@@ -768,11 +809,32 @@ class SettingsDialog(MagneticDialog):
         model_layout = QFormLayout(model_group)
 
         self.combo_model = QComboBox()
-        self.combo_model.addItems(["large-v2", "large-v3", "large-v3-turbo"])
+        self.combo_model.addItems(["large-v2", "large-v3", "large-v3-turbo", "Custom Model..."])
         self.combo_model.setCurrentText(
             str(self._current.get("model", "large-v3-turbo"))
         )
+        self.combo_model.currentTextChanged.connect(self._on_model_changed)
         model_layout.addRow("모델:", self.combo_model)
+
+        # Custom Model Path UI
+        self.custom_model_widget = QWidget()
+        custom_layout = QHBoxLayout(self.custom_model_widget)
+        custom_layout.setContentsMargins(0, 0, 0, 0)
+        
+        self.line_custom_model = QLineEdit()
+        self.line_custom_model.setReadOnly(True)
+        self.line_custom_model.setPlaceholderText("모델 폴더 또는 파일 선택...")
+        self.line_custom_model.setText(self._current.get("custom_model_path", ""))
+        
+        self.btn_browse_model = QPushButton("찾아보기...")
+        self.btn_browse_model.clicked.connect(self._browse_custom_model)
+        
+        custom_layout.addWidget(self.line_custom_model)
+        custom_layout.addWidget(self.btn_browse_model)
+        
+        # Add to layout but hide initially
+        model_layout.addRow("모델 경로:", self.custom_model_widget)
+        self._update_custom_model_visibility()
 
         self.combo_language = QComboBox()
         self.combo_language.addItems(["auto", "ko", "en", "ja", "zh"])
