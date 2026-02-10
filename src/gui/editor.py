@@ -3,6 +3,7 @@ Subtitle Editor Widget for ThinkSub2.
 Supports Split/Merge/Delete with Undo/Redo.
 """
 
+import copy
 from typing import List, Optional
 from PySide6.QtWidgets import (
     QWidget,
@@ -1068,7 +1069,7 @@ class SubtitleEditor(QWidget):
         if not self._undo_stack:
             return
 
-        old_segments = list(self._manager.segments)
+        old_segments = copy.deepcopy(self._manager.segments)
 
         # Pop command from undo stack and execute undo
         command = self._undo_stack.pop()
@@ -1087,7 +1088,7 @@ class SubtitleEditor(QWidget):
 
         This method is called by main_window to execute split/merge/delete commands.
         """
-        old_segments = list(self._manager.segments)
+        old_segments = copy.deepcopy(self._manager.segments)
 
         # Execute the command
         success = command.execute()
@@ -1109,7 +1110,7 @@ class SubtitleEditor(QWidget):
         if not self._redo_stack:
             return
 
-        old_segments = list(self._manager.segments)
+        old_segments = copy.deepcopy(self._manager.segments)
 
         # Pop command from redo stack and execute redo
         command = self._redo_stack.pop()

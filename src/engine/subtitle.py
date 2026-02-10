@@ -494,7 +494,7 @@ class SubtitleManager:
         texts = [self._segments[i].text for i in indices]
         first.text = " ".join(texts)
         first.end = self._segments[indices[-1]].end
-        first.status = SegmentStatus.DRAFT  # Mark as draft after merge
+        first.status = SegmentStatus.FINAL  # Keep as final so waveform overlay remains visible
 
         # Merge words
         merged_words = []

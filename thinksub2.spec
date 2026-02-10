@@ -15,10 +15,26 @@ a = Analysis(
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=[],
+    excludes=['torch', 'nvidia', 'triton'],
     noarchive=False,
     optimize=0,
 )
+
+# Filter out ONLY torch-specific binaries
+# Allow cudnn, cublas, libiomp as ctranslate2 might need them
+exclude_patterns = [
+    'torch',
+    'c10',
+    'cufft',
+    'nvJitLink',
+    'curand',
+    'cusolverMg',
+    'fbgemm',
+    'asmjit',
+    'uv.dll'
+]
+
+a.binaries = TOC([x for x in a.binaries if not any(pattern in x[0] for pattern in exclude_patterns)])
 pyz = PYZ(a.pure)
 
 exe = EXE(

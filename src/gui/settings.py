@@ -29,6 +29,8 @@ from src.gui.magnetic import MagneticDialog
 from src.gui import i18n
 
 import json
+import os
+import sys
 from typing import Any, cast
 
 

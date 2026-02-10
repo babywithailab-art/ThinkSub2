@@ -258,21 +258,17 @@ class WhisperTranscriberProcess:
                             model_path, device=device, compute_type=compute_type
                         )
 
-                        # GPU memory info if CUDA
                         if device == "cuda" and HAS_JSON_LOGGER:
                             try:
-                                import torch
-
-                                gpu_memory = (
-                                    torch.cuda.get_device_properties(0).total_memory
-                                    / 1024**3
-                                )  # GB
+                                # Use ctranslate2 to check GPU count, but memory info is not directly available
+                                # without nvml or torch. We will skip memory logging to avoid heavy dependencies.
+                                # If needed, we could use pynvml, but keeping it simple is better.
                                 log(
                                     "Model loaded successfully",
                                     request_id=model_load_request_id,
                                     data={
                                         "compute": compute_type,
-                                        "gpu_memory_gb": round(gpu_memory, 2),
+                                        "gpu_available": True,
                                         "model_path": str(model_path),
                                     },
                                 )
@@ -317,18 +313,28 @@ class WhisperTranscriberProcess:
 
                 elif cmd == ControlCommand.RELOAD_SETTINGS:
                     # Update settings without reloading model
-                    if "language" in data:
-                        language = data["language"]
-                        log(f"Language updated to: {language}")
-
-                    if "faster_whisper_params" in data:
-                        try:
-                            new_params = data["faster_whisper_params"]
-                            if isinstance(new_params, dict):
-                                extra_params = new_params
-                                log("Faster-Whisper extra params updated.")
-                        except Exception as e:
-                            log(f"Failed to update extra params: {e}")
+                    if isinstance(data, dict):
+                        if "model" in data:
+                            model_size = data["model"]
+                        if "device" in data:
+                            device = data["device"]
+                        if "language" in data:
+                            language = data["language"]
+                            log(f"Language updated to: {language}")
+                        if "compute_type" in data:
+                            compute_type = data["compute_type"]
+                        if "custom_model_path" in data:
+                            # Update the config dict directly as LOAD_MODEL uses it
+                            config["custom_model_path"] = data["custom_model_path"]
+                        
+                        if "faster_whisper_params" in data:
+                            try:
+                                new_params = data["faster_whisper_params"]
+                                if isinstance(new_params, dict):
+                                    extra_params = new_params
+                                    log("Faster-Whisper extra params updated.")
+                            except Exception as e:
+                                log(f"Failed to update extra params: {e}")
 
                 elif cmd == ControlCommand.TRANSCRIBE_FILE:
                     file_path = data
@@ -340,12 +346,10 @@ class WhisperTranscriberProcess:
 
                     try:
                         import gc
-                        import torch
 
                         # Memory Cleanup before large task
                         gc.collect()
-                        if device == "cuda":
-                            torch.cuda.empty_cache()
+                        # Removed torch.cuda.empty_cache() to avoid torch dependency
 
                         cancel_file = False
                         active_file = file_path
@@ -499,12 +503,10 @@ class WhisperTranscriberProcess:
 
                     try:
                         import gc
-                        import torch
 
                         # Memory Cleanup before large task
                         gc.collect()
-                        if device == "cuda":
-                            torch.cuda.empty_cache()
+                        # Removed torch.cuda.empty_cache() to avoid torch dependency
 
                         cancel_file = False
                         active_file = file_path

@@ -2735,6 +2735,22 @@ class MainWindow(QMainWindow):
         self._log_window.show()
         self._log_window.activateWindow()
 
+    def _get_transcriber_config(self, mode: str = "live") -> dict:
+        """Centralized helper to gather transcriber configuration from settings."""
+        settings = QSettings("ThinkSub", "ThinkSub2")
+        config = {
+            "model": settings.value("model", "large-v3-turbo"),
+            "device": settings.value("device", "cuda"),
+            "language": settings.value("language", "ko"),
+            "compute_type": settings.value("compute_type", "float16"),
+            "custom_model_path": settings.value("custom_model_path", ""),
+        }
+        # Mode-specific parameters
+        config["faster_whisper_params"] = self._build_fw_params_from_settings(
+            settings, mode=mode
+        )
+        return config
+
     def _start_live(self):
         """Start Live transcription."""
         # 1. Confirmation if segments exist
@@ -2760,23 +2776,16 @@ class MainWindow(QMainWindow):
         self._set_state(AppState.LOADING)
 
         # 3. Start transcriber process
-        # Retrieve from Settings
+        config = self._get_transcriber_config(mode="live")
         settings = QSettings("ThinkSub", "ThinkSub2")
-        config = {
-            "model": settings.value("model", "large-v3-turbo"),
-            "device": settings.value("device", "cuda"),
-            "language": settings.value("language", "ko"),
-            "compute_type": settings.value("compute_type", "float16"),
-        }
-
-        # Merge params tab + extra JSON (extra wins on conflicts)
-        config["faster_whisper_params"] = self._build_fw_params_from_settings(
-            settings, mode="live"
-        )
 
         # Log Model Params
+        model_name = config["model"]
+        if model_name == "Custom Model...":
+             model_name = f"Custom ({os.path.basename(config.get('custom_model_path', ''))})"
+
         self._log_window.append_log(
-            f"[설정] 모델: {config['model']} | 장치: {config['device']} | 언어: {config['language']}"
+            f"[설정] 모델: {model_name} | 장치: {config['device']} | 언어: {config['language']}"
         )
 
         if config.get("faster_whisper_params"):
@@ -5519,16 +5528,8 @@ class MainWindow(QMainWindow):
         self.file_editor.refresh()
 
         # 3. Ensure model is loaded (start process if not)
+        config = self._get_transcriber_config(mode="file")
         settings = QSettings("ThinkSub", "ThinkSub2")
-        config = {
-            "model": settings.value("model", "large-v3-turbo"),
-            "device": settings.value("device", "cuda"),
-            "language": settings.value("language", "ko"),
-            "compute_type": settings.value("compute_type", "float16"),
-        }
-        config["faster_whisper_params"] = self._build_fw_params_from_settings(
-            settings, mode="file"
-        )
 
         self._transcriber.start(config)
 
@@ -5745,6 +5746,7 @@ class MainWindow(QMainWindow):
         self, source: str, added_ids: list, removed_ids: list, updated_ids: list
     ):
         """Handle segment changes (add/remove/update) from Editor/Undo/Redo."""
+        self._mark_dirty()
         # This synchronizes the Waveform Visuals with the Editor state.
         manager = (
             self._subtitle_manager if source == "left" else self._file_subtitle_manager
@@ -5946,11 +5948,5 @@ class MainWindow(QMainWindow):
         self.waveform_right.refresh_segments(self._file_subtitle_manager.segments)
         self._mark_dirty()
 
-    def _on_segments_diff(self, source: str, added: list, removed: list, updated: list):
-        """Handle diff updates (split/merge results)."""
-        self._mark_dirty()
-
-        if source == "left":
-            self.waveform_left.refresh_segments(self._subtitle_manager.segments)
-        else:
-            self.waveform_right.refresh_segments(self._file_subtitle_manager.segments)
+    # NOTE: _on_segments_diff is defined earlier (around line 5745) with granular
+    # add/remove/update handling. Do NOT redefine it here.

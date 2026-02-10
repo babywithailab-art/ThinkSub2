@@ -1,6 +1,9 @@
 # build outputs
 dist/
 build/
+whisper_lora_data/
+projects/
+tests/
 *.zip
 *.pkg
 
